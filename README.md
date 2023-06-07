@@ -1,6 +1,6 @@
 # lwr
 
-A lightweight replacement for the Lansweeper Agent on Linux that doesn't require privileged access and is small enough to audit.
+A lightweight replacement for the [Lansweeper](https://en.wikipedia.org/wiki/Lansweeper) Agent on Linux that doesn't require privileged access and is small enough to audit.
 
 ## Docs
 
