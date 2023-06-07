@@ -1,0 +1,982 @@
+util-linux-user	2.32.1	27.el8	x86_64	Mon 24 May 2021 15:56:59 NZST	libuser based util-linux utilities
+nmap	7.70	5.el8	x86_64	Fri 28 Aug 2020 12:52:14 NZST	Network exploration tool and security scanner
+binutils	2.30	93.el8	x86_64	Mon 24 May 2021 15:52:42 NZST	A GNU collection of binary utilities
+python3-ldap	3.3.1	1.el8	x86_64	Mon 24 May 2021 15:57:27 NZST	An object-oriented API to access LDAP directory servers
+ncdu	1.15.1	1.el8	x86_64	Mon 13 Jul 2020 17:50:02 NZST	Text-based disk usage viewer
+selinux-policy	3.14.3	67.el8	noarch	Mon 24 May 2021 15:52:43 NZST	SELinux policy configuration
+git-core-doc	2.27.0	1.el8	noarch	Thu 05 Nov 2020 04:56:49 NZDT	Documentation files for git-core
+unzip	6.0	44.el8	x86_64	Mon 24 May 2021 15:57:34 NZST	A utility for unpacking zip files
+snapd-selinux	2.50	1.el8	noarch	Mon 24 May 2021 15:53:37 NZST	SELinux module for snapd
+cpp	8.4.1	1.el8	x86_64	Wed 02 Jun 2021 14:49:00 NZST	The C Preprocessor
+nagios-plugins-ircd	2.3.3	5.el8	x86_64	Mon 24 May 2021 15:53:55 NZST	Nagios Plugin - check_ircd
+ncurses-libs	6.1	7.20180224.el8	x86_64	Mon 13 Jul 2020 17:41:57 NZST	Ncurses libraries
+gcc	8.4.1	1.el8	x86_64	Wed 02 Jun 2021 14:49:26 NZST	Various compilers (C, C++, Objective-C, ...)
+shared-mime-info	1.9	3.el8	x86_64	Mon 13 Jul 2020 17:42:28 NZST	Shared MIME information database
+redhat-logos	84.4	1.el8	x86_64	Mon 24 May 2021 15:53:55 NZST	Red Hat-related icons and pictures
+libverto-devel	0.3.0	5.el8	x86_64	Wed 02 Jun 2021 14:49:27 NZST	Development files for libverto
+libatomic	8.4.1	1.el8	x86_64	Mon 24 May 2021 15:53:56 NZST	The GNU Atomic library
+pinfo	0.6.10	18.el8	x86_64	Mon 13 Jul 2020 17:43:32 NZST	An info file viewer
+bzip2-libs	1.0.6	26.el8	x86_64	Mon 13 Jul 2020 17:41:59 NZST	Libraries for applications using bzip2
+python-srpm-macros	3	41.el8	noarch	Wed 09 Jun 2021 13:47:36 NZST	RPM macros for building Python source packages
+python3-psutil	5.7.3	1.el8	x86_64	Wed 03 Feb 2021 11:05:33 NZDT	A process and system utilities module for Python
+hdparm	9.54	3.el8	x86_64	Mon 24 May 2021 15:53:57 NZST	A utility for displaying and/or setting hard disk parameters
+PackageKit-glib	1.1.12	6.el8	x86_64	Thu 05 Nov 2020 04:57:03 NZDT	GLib libraries for accessing PackageKit
+libipt	1.6.1	8.el8	x86_64	Wed 09 Jun 2021 13:47:36 NZST	Intel Processor Trace Decoder Library
+ruby-default-gems	2.7.1	133.module+el8.3.0+7192+4e3a532a	noarch	Wed 10 Feb 2021 14:52:09 NZDT	Default gems which are part of Ruby StdLib.
+python2-libs	2.7.18	4.module+el8.4.0+9577+0b56c8de	x86_64	Mon 24 May 2021 15:54:01 NZST	Runtime libraries for Python 2
+libcollection	0.7.0	39.el8	x86_64	Mon 13 Jul 2020 17:41:59 NZST	Collection data-type for C
+ocaml-srpm-macros	5	4.el8	noarch	Wed 09 Jun 2021 13:47:38 NZST	OCaml architecture macros
+elfutils-libs	0.182	3.el8	x86_64	Mon 24 May 2021 15:54:01 NZST	Libraries to handle compiled objects
+libusbx	1.0.23	4.el8	x86_64	Thu 05 Nov 2020 04:58:16 NZDT	Library for accessing USB devices
+libacl	2.2.53	1.el8	x86_64	Mon 13 Jul 2020 17:41:59 NZST	Dynamic library for access control list support
+python2-gofer	2.12.5	5.el8sat	noarch	Tue 14 Jul 2020 10:15:01 NZST	Gofer python lib modules
+libdatrie	0.2.9	7.el8	x86_64	Sat 20 Feb 2021 21:51:10 NZDT	Implementation of Double-Array structure for representing trie
+python3-iniparse	0.4	31.el8	noarch	Mon 13 Jul 2020 17:42:36 NZST	Python Module for Accessing and Modifying Configuration Data in INI files
+libblockdev-utils	2.24	5.el8	x86_64	Mon 24 May 2021 15:54:03 NZST	A library with utility functions for the libblockdev library
+samba-common-libs	4.13.3	3.el8	x86_64	Mon 24 May 2021 15:54:04 NZST	Libraries used by both Samba servers and clients
+bash-completion	2.7	5.el8	noarch	Mon 13 Jul 2020 17:43:36 NZST	Programmable completion for Bash
+libidn2	2.2.0	1.el8	x86_64	Mon 13 Jul 2020 17:42:00 NZST	Library to support IDNA2008 internationalized domain names
+glibc-common	2.28	151.el8	x86_64	Mon 24 May 2021 15:52:21 NZST	Common binaries and locale data for glibc
+libjose	10	2.el8	x86_64	Mon 13 Jul 2020 17:42:37 NZST	Library implementing JSON Object Signing and Encryption
+python3-libdnf	0.55.0	7.el8	x86_64	Mon 24 May 2021 15:54:06 NZST	Python 3 bindings for the libdnf library.
+elfutils-libelf	0.182	3.el8	x86_64	Mon 24 May 2021 15:52:22 NZST	Library to read and write ELF files
+perl-Encode-Locale	1.05	10.module+el8.3.0+6498+9eecfe51	noarch	Thu 05 Nov 2020 04:55:36 NZDT	Determine the locale encoding
+NetworkManager	1.30.0	7.el8	x86_64	Mon 24 May 2021 15:54:06 NZST	Network connection manager and user applications
+dos2unix	7.4.0	3.el8	x86_64	Mon 13 Jul 2020 17:43:37 NZST	Text file format converters
+gawk	4.2.1	2.el8	x86_64	Mon 24 May 2021 15:52:23 NZST	The GNU version of the AWK text processing utility
+grub2-tools	2.02	99.el8	x86_64	Mon 24 May 2021 15:54:10 NZST	Support tools for GRUB.
+words	3.0	28.el8	noarch	Mon 13 Jul 2020 17:43:40 NZST	A dictionary of English words for the /usr/share/dict directory
+shadow-utils	4.6	12.el8	x86_64	Mon 24 May 2021 15:52:24 NZST	Utilities for managing accounts and shadow password files
+python3-cairo	1.16.3	6.el8	x86_64	Mon 13 Jul 2020 17:42:40 NZST	Python 3 bindings for the cairo library
+lvm2-libs	2.03.11	5.el8	x86_64	Mon 24 May 2021 15:54:10 NZST	Shared libraries for lvm2
+python3-future	0.18.2	2.el8	noarch	Mon 13 Jul 2020 17:48:46 NZST	Easy, clean, reliable Python 2/3 compatibility
+libksba	1.3.5	7.el8	x86_64	Mon 13 Jul 2020 17:42:01 NZST	CMS and X.509 library
+file-libs	5.33	16.el8_3.1	x86_64	Mon 24 May 2021 15:52:24 NZST	Libraries for applications using libmagic
+libblockdev-part	2.24	5.el8	x86_64	Mon 24 May 2021 15:54:11 NZST	The partitioning plugin for the libblockdev library
+python3-beautifulsoup4	4.6.3	2.el8.1	noarch	Mon 13 Jul 2020 17:48:47 NZST	HTML/XML parser for quick-turnaround applications like screen-scraping
+libedit	3.1	23.20170329cvs.el8	x86_64	Mon 13 Jul 2020 17:42:02 NZST	The NetBSD Editline library
+p11-kit-trust	0.23.22	1.el8	x86_64	Mon 24 May 2021 15:52:25 NZST	System trust module from p11-kit
+passwd	0.80	3.el8	x86_64	Mon 13 Jul 2020 17:42:40 NZST	An utility for setting or changing passwords using PAM
+libgcrypt	1.8.5	4.el8	x86_64	Thu 05 Nov 2020 04:55:56 NZDT	A general-purpose cryptography library
+libqmi	1.24.0	1.el8	x86_64	Mon 24 May 2021 15:54:11 NZST	Support library to use the Qualcomm MSM Interface (QMI) protocol
+perl-Scalar-List-Utils	1.49	2.el8	x86_64	Mon 13 Jul 2020 17:49:12 NZST	A selection of general-utility scalar and list subroutines
+crypto-policies	20210209	1.gitbfb6bed.el8_3	noarch	Mon 24 May 2021 15:52:25 NZST	System-wide crypto policies
+usb_modeswitch	2.5.2	1.el8	x86_64	Mon 13 Jul 2020 17:42:47 NZST	USB Modeswitch gets mobile broadband cards in operational mode
+conmon	2.0.26	1.module+el8.4.0+10607+f4da7515	x86_64	Mon 24 May 2021 15:54:13 NZST	OCI container runtime monitor
+libbytesize	1.4	3.el8	x86_64	Mon 13 Jul 2020 17:42:02 NZST	A library for working with sizes in bytes
+openldap	2.4.46	16.el8	x86_64	Mon 24 May 2021 15:52:28 NZST	LDAP support libraries
+mdadm	4.1	15.el8	x86_64	Mon 24 May 2021 15:54:13 NZST	The mdadm program controls Linux md devices (software RAID arrays)
+vim-common	8.0.1763	15.el8	x86_64	Thu 05 Nov 2020 04:58:35 NZDT	The common files needed by any version of the VIM editor
+nagios-plugins-perl	2.3.3	5.el8	x86_64	Mon 24 May 2021 15:52:29 NZST	Nagios plugins perl dep.
+numactl-libs	2.0.12	11.el8	x86_64	Thu 05 Nov 2020 04:55:58 NZDT	libnuma libraries
+realmd	0.16.3	22.el8	x86_64	Mon 24 May 2021 15:54:14 NZST	Kerberos realm enrollment service
+perl-WWW-RobotRules	6.02	18.module+el8.3.0+6498+9eecfe51	noarch	Thu 05 Nov 2020 04:58:35 NZDT	Database of robots.txt-derived permissions
+python3-libxml2	2.9.7	9.el8	x86_64	Mon 24 May 2021 15:52:30 NZST	Python 3 bindings for the libxml2 library
+hypervvssd	0	0.30.20180415git.el8	x86_64	Mon 24 May 2021 15:54:15 NZST	Hyper-V VSS daemon
+efi-filesystem	3	3.el8	noarch	Mon 24 May 2021 15:52:35 NZST	The basic directory layout for EFI machines
+libappstream-glib	0.7.14	3.el8	x86_64	Mon 13 Jul 2020 17:43:20 NZST	Library for AppStream metadata
+xfsprogs	5.0.0	8.el8	x86_64	Mon 24 May 2021 15:54:16 NZST	Utilities for managing the XFS filesystem
+perl-threads	2.21	2.el8	x86_64	Mon 13 Jul 2020 17:49:13 NZST	Perl interpreter-based threads
+setools-console	4.3.0	2.el8	x86_64	Thu 05 Nov 2020 04:58:43 NZDT	Policy analysis command-line tools for SELinux
+checkpolicy	2.9	1.el8	x86_64	Mon 13 Jul 2020 17:42:06 NZST	SELinux policy compiler
+nftables	0.9.3	18.el8	x86_64	Mon 24 May 2021 15:52:36 NZST	Netfilter Tables userspace utillites
+rhsm-icons	1.28.13	2.el8	noarch	Mon 24 May 2021 15:54:17 NZST	Icons for Red Hat Subscription Management client tools
+python3-libsemanage	2.9	6.el8	x86_64	Mon 24 May 2021 15:52:37 NZST	semanage python 3 bindings for libsemanage
+dnf-plugin-subscription-manager	1.28.13	2.el8	x86_64	Mon 24 May 2021 15:54:17 NZST	Subscription Manager plugins for DNF
+perl-Data-Dumper	2.167	399.el8	x86_64	Mon 13 Jul 2020 17:49:15 NZST	Stringify perl data structures, suitable for printing and eval
+pkgconf	1.4.2	1.el8	x86_64	Mon 13 Jul 2020 17:42:06 NZST	Package compiler and linker metadata toolkit
+rpm	4.14.3	13.el8	x86_64	Mon 24 May 2021 15:52:38 NZST	The RPM package management system
+podman	3.0.1	6.module+el8.4.0+10607+f4da7515	x86_64	Mon 24 May 2021 15:54:19 NZST	Manage Pods, Containers and Container Images
+perl-HTTP-Tiny	0.074	1.el8	noarch	Mon 13 Jul 2020 17:49:15 NZST	Small, simple, correct HTTP/1.1 client
+libsysfs	2.1.0	24.el8	x86_64	Mon 13 Jul 2020 17:42:07 NZST	Shared library for interfacing with sysfs
+libkadm5	1.18.2	8.el8	x86_64	Mon 24 May 2021 15:52:38 NZST	Kerberos 5 Administrative libraries
+coreutils	8.30	8.el8	x86_64	Thu 05 Nov 2020 04:56:13 NZDT	A set of basic GNU tools commonly used in shell scripts
+linux-firmware	20201218	102.git05789708.el8	noarch	Mon 24 May 2021 15:54:33 NZST	Firmware files used by the Linux kernel
+perl-Getopt-Long	2.50	4.el8	noarch	Mon 13 Jul 2020 17:49:15 NZST	Extended processing of command line options
+smartmontools	7.1	1.el8	x86_64	Thu 05 Nov 2020 04:59:19 NZDT	Tools for monitoring SMART capable hard disks
+libxcb	1.13.1	1.el8	x86_64	Mon 13 Jul 2020 17:42:09 NZST	A C binding to the X11 protocol
+keyutils	1.5.10	6.el8	x86_64	Thu 30 Jul 2020 16:52:42 NZST	Linux Key Management Utilities
+nagios-plugins-icmp	2.3.3	5.el8	x86_64	Mon 24 May 2021 15:52:38 NZST	Nagios Plugin - check_icmp
+firewalld	0.8.2	6.el8	noarch	Mon 24 May 2021 15:54:44 NZST	A firewall daemon with D-Bus interface providing a dynamic firewall
+libxkbcommon	0.9.1	1.el8	x86_64	Mon 13 Jul 2020 17:42:09 NZST	X.Org X11 XKB parsing library
+nagios-plugins-ntp	2.3.3	5.el8	x86_64	Mon 24 May 2021 15:52:38 NZST	Nagios Plugin - check_ntp
+kpatch	0.9.2	3.el8	noarch	Mon 24 May 2021 15:54:48 NZST	Dynamic kernel patch manager
+liblockfile	1.14	1.el8	x86_64	Mon 13 Jul 2020 17:49:16 NZST	This implements a number of functions found in -lmail on SysV systems
+fuse	2.9.7	12.el8	x86_64	Mon 13 Jul 2020 17:42:19 NZST	File System in Userspace (FUSE) v2 utilities
+nagios-plugins-time	2.3.3	5.el8	x86_64	Mon 24 May 2021 15:52:38 NZST	Nagios Plugin - check_time
+nagios-plugins-all	2.3.3	5.el8	x86_64	Mon 24 May 2021 15:54:48 NZST	Nagios Plugins - All plugins
+libXau	1.0.9	3.el8	x86_64	Thu 05 Nov 2020 04:59:22 NZDT	Sample Authorization Protocol for X
+python3-ptyprocess	0.5.2	4.el8	noarch	Mon 24 May 2021 15:52:39 NZST	Run a subprocess in a pseudo terminal
+python3-netifaces	0.10.6	4.el8	x86_64	Mon 13 Jul 2020 17:43:25 NZST	Python 3 library to retrieve information about network interfaces
+rsyslog-gssapi	8.1911.0	7.el8	x86_64	Mon 24 May 2021 15:54:51 NZST	GSSAPI authentication and encryption support for rsyslog
+fping	4.2	2.el8	x86_64	Mon 13 Jul 2020 17:49:17 NZST	Scriptable, parallelized ping-like utility
+perl-Mozilla-CA	20160104	7.module+el8.3.0+6498+9eecfe51	noarch	Thu 05 Nov 2020 04:59:23 NZDT	Mozilla's CA cert bundle in PEM format
+python3-jmespath	0.9.0	11.el8	noarch	Fri 14 Aug 2020 10:04:52 NZST	JSON Matching Expressions
+bind-utils	9.11.26	4.el8_4	x86_64	Mon 24 May 2021 15:52:40 NZST	Utilities for querying DNS name servers
+python3-rhn-setup	2.8.16	13.module+el8.1.0+3455+3ddf2832	x86_64	Mon 13 Jul 2020 17:43:25 NZST	Configure and register an RHN/Spacewalk client
+atop	2.6.0	6.el8	x86_64	Mon 24 May 2021 15:54:52 NZST	An advanced interactive monitor to view the load on system and process level
+apr-util-bdb	1.6.1	6.el8	x86_64	Tue 08 Dec 2020 12:42:41 NZDT	APR utility library Berkeley DB driver
+libnsl2	1.2.0	2.20180605git4a062cf.el8	x86_64	Mon 13 Jul 2020 17:42:20 NZST	Public client interface library for NIS(YP) and NIS+
+python3-pynacl	1.3.0	5.el8	x86_64	Fri 14 Aug 2020 10:04:55 NZST	Python binding to the Networking and Cryptography (NaCl) library
+nagios-plugins-snmp	2.3.3	5.el8	x86_64	Mon 24 May 2021 15:52:40 NZST	Nagios Plugin - check_snmp
+libluksmeta	9	4.el8	x86_64	Mon 13 Jul 2020 17:43:26 NZST	Library for storing small metadata in the LUKSv1 header
+python2-six	1.11.0	6.module+el8.4.0+9287+299307c7	noarch	Mon 24 May 2021 15:55:01 NZST	Python 2 and 3 compatibility utilities
+httpd-filesystem	2.4.37	39.module+el8.4.0+9658+b87b2deb	noarch	Mon 24 May 2021 15:52:41 NZST	The basic directory layout for the Apache HTTP server
+lshw	B.02.19.2	5.el8	x86_64	Mon 24 May 2021 15:57:00 NZST	Hardware lister
+pwgen	2.08	3.el8	x86_64	Mon 13 Jul 2020 17:49:42 NZST	Automatic password generation
+util-linux	2.32.1	27.el8	x86_64	Mon 24 May 2021 15:52:43 NZST	A collection of basic system utilities
+fontpackages-filesystem	1.44	22.el8	noarch	Mon 13 Jul 2020 17:41:56 NZST	Directories used by font packages
+ledmon	0.95	1.el8	x86_64	Mon 24 May 2021 15:57:27 NZST	Enclosure LED Utilities
+python3-policycoreutils	2.9	14.el8	noarch	Mon 24 May 2021 15:53:21 NZST	SELinux policy core python3 interfaces
+lsscsi	0.32	2.el8	x86_64	Mon 24 May 2021 15:57:34 NZST	List SCSI devices (or hosts) and associated information
+kernel-core	4.18.0	240.10.1.el8_3	x86_64	Wed 03 Feb 2021 11:03:50 NZDT	The Linux kernel
+nagios-plugins-breeze	2.3.3	5.el8	x86_64	Mon 24 May 2021 15:53:55 NZST	Nagios Plugin - check_breeze
+publicsuffix-list-dafsa	20180723	1.el8	noarch	Mon 13 Jul 2020 17:41:57 NZST	Cross-vendor public domain suffix database in DAFSA form
+isl	0.16.1	6.el8	x86_64	Wed 02 Jun 2021 14:49:16 NZST	Integer point manipulation library
+gettext	0.19.8.1	17.el8	x86_64	Mon 13 Jul 2020 17:42:27 NZST	GNU libraries and utilities for producing multi-lingual messages
+python3-libcomps	0.1.11	5.el8	x86_64	Mon 24 May 2021 15:53:55 NZST	Python 3 bindings for libcomps library
+pcre2-utf32	10.32	2.el8	x86_64	Wed 02 Jun 2021 14:49:26 NZST	UTF-32 variant of PCRE2
+rhnlib	2.8.6	8.module+el8.1.0+3455+3ddf2832	noarch	Mon 13 Jul 2020 17:43:31 NZST	Python libraries for the Spacewalk project
+fuse-overlayfs	1.4.0	2.module+el8.4.0+10607+f4da7515	x86_64	Mon 24 May 2021 15:53:56 NZST	FUSE overlay+shiftfs implementation for rootless containers
+libxcrypt	4.1.1	4.el8	x86_64	Mon 13 Jul 2020 17:41:59 NZST	Extended crypt library for DES, MD5, Blowfish and others
+openssl-devel	1.1.1g	15.el8_3	x86_64	Wed 02 Jun 2021 14:49:31 NZST	Files for development of applications which will use OpenSSL
+tzdata	2021a	1.el8	noarch	Wed 03 Feb 2021 11:05:26 NZDT	Timezone data
+mysql-common	8.0.21	1.module+el8.2.0+7855+47abd494	x86_64	Thu 17 Sep 2020 04:47:01 NZST	The shared files required for MySQL server and client
+libsss_nss_idmap	2.4.0	9.el8	x86_64	Mon 24 May 2021 15:53:56 NZST	Library for SID and certificate based lookups
+go-srpm-macros	2	17.el8	noarch	Wed 09 Jun 2021 13:47:36 NZST	RPM macros for building Golang packages for various architectures
+python2-setuptools-wheel	39.0.1	13.module+el8.4.0+9442+27d0e81c	noarch	Mon 24 May 2021 15:53:59 NZST	The setuptools wheel
+gc	7.6.4	3.el8	x86_64	Wed 09 Jun 2021 13:47:36 NZST	A garbage collector for C and C++
+rubygem-json	2.3.0	133.module+el8.3.0+7192+4e3a532a	x86_64	Wed 10 Feb 2021 14:52:09 NZDT	This is a JSON implementation as a Ruby extension in C
+gpg-pubkey	2f86d6a1	5cf7cefb	(none)	Tue 14 Jul 2020 10:14:57 NZST	gpg(Fedora EPEL (8) <epel@fedoraproject.org>)
+libuser	0.62	23.el8	x86_64	Mon 13 Jul 2020 17:42:32 NZST	A user and group account administration library
+cryptsetup-libs	2.3.3	4.el8	x86_64	Mon 24 May 2021 15:54:01 NZST	Cryptsetup shared library
+redhat-rpm-config	125	1.el8	noarch	Wed 09 Jun 2021 13:47:39 NZST	Red Hat specific rpm configuration files
+nmap-ncat	7.70	5.el8	x86_64	Mon 13 Jul 2020 17:43:35 NZST	Nmap's Netcat replacement
+trousers	0.3.15	1.el8	x86_64	Mon 24 May 2021 15:54:03 NZST	TCG's Software Stack v1.2
+lua-libs	5.3.4	11.el8	x86_64	Mon 13 Jul 2020 17:42:00 NZST	Libraries for lua
+harfbuzz	1.7.5	3.el8	x86_64	Sat 20 Feb 2021 21:51:10 NZDT	Text shaping library
+iputils	20180629	7.el8	x86_64	Mon 24 May 2021 15:54:04 NZST	Network monitoring tools including ping
+kernel-core	4.18.0	240.22.1.el8_3	x86_64	Thu 13 May 2021 21:39:31 NZST	The Linux kernel
+iptstate	2.2.6	6.el8	x86_64	Mon 13 Jul 2020 17:43:37 NZST	A top-like display of IP Tables state table entries
+rsyslog	8.1911.0	7.el8	x86_64	Mon 24 May 2021 15:54:05 NZST	Enhanced system logging and kernel message trapping daemon
+findutils	4.6.0	20.el8	x86_64	Mon 13 Jul 2020 17:42:00 NZST	The GNU versions of find utilities (find and xargs)
+libsepol	2.9	2.el8	x86_64	Mon 24 May 2021 15:52:22 NZST	SELinux binary policy manipulation library
+ed	1.14.2	4.el8	x86_64	Mon 13 Jul 2020 17:43:37 NZST	The GNU line editor
+python3-libstoragemgmt-clibs	1.8.7	1.el8	x86_64	Mon 24 May 2021 15:54:06 NZST	Python 3 C extension module for libstoragemgmt
+libblkid	2.32.1	27.el8	x86_64	Mon 24 May 2021 15:52:23 NZST	Block device ID library
+symlinks	1.4	19.el8	x86_64	Mon 13 Jul 2020 17:43:37 NZST	A utility which maintains a system's symbolic links
+iscsi-initiator-utils	6.2.1.2	1.gita8fcb37.el8	x86_64	Mon 24 May 2021 15:54:09 NZST	iSCSI daemon and utility programs
+libseccomp	2.5.1	1.el8	x86_64	Mon 24 May 2021 15:52:23 NZST	Enhanced seccomp library
+nagios-plugins-disk_smb	2.3.3	5.el8	x86_64	Mon 24 May 2021 15:54:10 NZST	Nagios Plugin - check_disk_smb
+libnftnl	1.1.5	4.el8	x86_64	Mon 13 Jul 2020 17:42:01 NZST	Library for low-level interaction with nftables Netlink's API over libmnl
+libxslt	1.1.32	6.el8	x86_64	Mon 24 May 2021 15:52:24 NZST	Library providing the Gnome XSLT engine
+libcom_err	1.45.6	1.el8	x86_64	Thu 05 Nov 2020 04:55:55 NZDT	Common error description library
+jose	10	2.el8	x86_64	Mon 13 Jul 2020 17:42:40 NZST	Tools for JSON Object Signing and Encryption (JOSE)
+sssd-krb5	2.4.0	9.el8	x86_64	Mon 24 May 2021 15:54:11 NZST	The Kerberos authentication back end for the SSSD
+fstrm	0.6.0	3.el8.1	x86_64	Mon 24 May 2021 15:52:24 NZST	Frame Streams implementation in C
+libtevent	0.10.2	2.el8	x86_64	Thu 05 Nov 2020 04:55:55 NZDT	The tevent library
+sssd-proxy	2.4.0	9.el8	x86_64	Mon 24 May 2021 15:54:11 NZST	The proxy back end of the SSSD
+nettle	3.4.1	4.el8_3	x86_64	Mon 24 May 2021 15:52:25 NZST	A low-level cryptographic library
+expat	2.2.5	4.el8	x86_64	Thu 05 Nov 2020 04:55:56 NZDT	An XML parser library
+libgusb	0.3.0	1.el8	x86_64	Mon 13 Jul 2020 17:42:47 NZST	GLib wrapper around libusb1
+sssd	2.4.0	9.el8	x86_64	Mon 24 May 2021 15:54:11 NZST	System Security Services Daemon
+slang	2.3.2	3.el8	x86_64	Mon 13 Jul 2020 17:42:02 NZST	The shared library for the S-Lang extension language
+platform-python-pip	9.0.3	19.el8	noarch	Mon 24 May 2021 15:52:26 NZST	A tool for installing and managing Python3 packages
+tar	1.30	5.el8	x86_64	Thu 05 Nov 2020 04:55:57 NZDT	A GNU file archiving program
+fprintd	1.90.9	2.el8	x86_64	Mon 24 May 2021 15:54:13 NZST	D-Bus service for Fingerprint reader access
+ipcalc	0.2.4	4.el8	x86_64	Mon 13 Jul 2020 17:42:02 NZST	IP network address calculator
+perl-IO-HTML	1.001	11.module+el8.3.0+6498+9eecfe51	noarch	Thu 05 Nov 2020 04:58:31 NZDT	Open an HTML file with automatic character set detection
+libdb	5.3.28	40.el8	x86_64	Mon 24 May 2021 15:52:29 NZST	The Berkeley DB database library for C
+python3-slip-dbus	0.6.4	11.el8	noarch	Mon 13 Jul 2020 17:43:19 NZST	Convenience functions for dbus services in Python 3.x
+lm_sensors	3.4.0	22.20180522git70f7e08.el8	x86_64	Mon 24 May 2021 15:54:14 NZST	Hardware monitoring tools
+acl	2.2.53	1.el8	x86_64	Mon 13 Jul 2020 17:42:03 NZST	Access control list utilities
+perl-HTML-Parser	3.72	15.module+el8.3.0+6498+9eecfe51	x86_64	Thu 05 Nov 2020 04:58:35 NZDT	Perl module for parsing HTML
+curl	7.61.1	18.el8	x86_64	Mon 24 May 2021 15:52:29 NZST	A utility for getting files from remote servers (FTP, HTTP, and others)
+efivar-libs	37	4.el8	x86_64	Thu 05 Nov 2020 04:55:58 NZDT	Library to manage UEFI variables
+hypervfcopyd	0	0.30.20180415git.el8	x86_64	Mon 24 May 2021 15:54:15 NZST	Hyper-V FCOPY daemon
+libconfig	1.5	9.el8	x86_64	Mon 13 Jul 2020 17:42:03 NZST	C/C++ configuration file library
+tpm2-tss	2.3.2	3.el8	x86_64	Mon 24 May 2021 15:52:30 NZST	TPM2.0 Software Stack
+glib-networking	2.56.1	1.1.el8	x86_64	Mon 13 Jul 2020 17:43:20 NZST	Networking support for GLib
+setroubleshoot-server	3.3.24	3.el8	x86_64	Mon 24 May 2021 15:54:15 NZST	SELinux troubleshoot server
+rdma-core	32.0	4.el8	x86_64	Mon 24 May 2021 15:52:35 NZST	RDMA core userspace libraries and daemons
+perl-Crypt-X509	0.51	19.el8	noarch	Thu 23 Jul 2020 02:52:17 NZST	Parse a X.509 certificate
+perl-PathTools	3.74	1.el8	x86_64	Mon 13 Jul 2020 17:49:13 NZST	PathTools Perl module (Cwd, File::Spec)
+device-mapper-multipath-libs	0.8.4	10.el8	x86_64	Mon 24 May 2021 15:54:17 NZST	The device-mapper-multipath modules and shared library
+dosfstools	4.1	6.el8	x86_64	Mon 13 Jul 2020 17:42:06 NZST	Utilities for making and checking MS-DOS FAT filesystems on Linux
+iptables-ebtables	1.8.4	17.el8	x86_64	Mon 24 May 2021 15:52:36 NZST	Ethernet Bridge frame table administration tool
+libteam	1.31	2.el8	x86_64	Thu 05 Nov 2020 04:56:04 NZDT	Library for controlling team network device
+perl-IO-Socket-IP	0.39	5.el8	noarch	Mon 13 Jul 2020 17:49:14 NZST	Drop-in replacement for IO::Socket::INET supporting both IPv4 and IPv6
+python3-dnf	4.4.2	11.el8	noarch	Mon 24 May 2021 15:54:17 NZST	Python 3 interface to DNF
+nagios-plugins-smtp	2.3.3	5.el8	x86_64	Mon 24 May 2021 15:52:37 NZST	Nagios Plugin - check_smtp
+desktop-file-utils	0.23	8.el8	x86_64	Mon 13 Jul 2020 17:43:21 NZST	Utilities for manipulating .desktop files
+perl-File-Temp	0.230.600	1.el8	noarch	Mon 13 Jul 2020 17:49:15 NZST	Return name and handle of a temporary file safely
+subscription-manager	1.28.13	2.el8	x86_64	Mon 24 May 2021 15:54:18 NZST	Tools and libraries for subscription and repository management
+mariadb-connector-c	3.1.11	2.el8_3	x86_64	Mon 24 May 2021 15:52:38 NZST	The MariaDB Native Client library (C driver)
+libkcapi	1.2.0	2.el8	x86_64	Thu 05 Nov 2020 04:56:12 NZDT	User space interface to the Linux Kernel Crypto API
+perl-URI	1.73	3.el8	noarch	Mon 13 Jul 2020 17:49:15 NZST	A Perl module implementing URI parsing and manipulation
+cockpit-system	238.2	1.el8	noarch	Mon 24 May 2021 15:54:20 NZST	Cockpit admin interface package for configuring and troubleshooting a system
+ncurses	6.1	7.20180224.el8	x86_64	Mon 13 Jul 2020 17:42:07 NZST	Ncurses support utilities
+nagios-plugins-dhcp	2.3.3	5.el8	x86_64	Mon 24 May 2021 15:52:38 NZST	Nagios Plugin - check_dhcp
+mod_http2	1.15.7	3.module+el8.4.0+8625+d397f3da	x86_64	Mon 24 May 2021 15:54:44 NZST	module implementing HTTP/2 for Apache 2
+libXrender	0.9.10	7.el8	x86_64	Mon 13 Jul 2020 17:42:09 NZST	X.Org X11 libXrender runtime library
+nagios-plugins-log	2.3.3	5.el8	x86_64	Mon 24 May 2021 15:52:38 NZST	Nagios Plugin - check_log
+perl-Import-Into	1.002005	7.el8	noarch	Mon 13 Jul 2020 17:49:16 NZST	Import packages into other packages
+chrony	3.5	2.el8	x86_64	Mon 24 May 2021 15:54:47 NZST	An NTP client/server
+nagios-plugins-overcr	2.3.3	5.el8	x86_64	Mon 24 May 2021 15:52:38 NZST	Nagios Plugin - check_overcr
+dejavu-sans-mono-fonts	2.35	7.el8	noarch	Mon 24 May 2021 15:54:48 NZST	Monospace sans-serif font faces
+python3-gpg	1.13.1	7.el8	x86_64	Mon 24 May 2021 15:52:39 NZST	gpgme bindings for Python 3
+python3-schedutils	0.6	6.el8	x86_64	Mon 13 Jul 2020 17:43:25 NZST	Linux scheduler python bindings
+netconsole-service	10.00.15	1.el8	noarch	Mon 24 May 2021 15:54:51 NZST	Service for initializing of network console logging
+python3-magic	5.33	16.el8_3.1	noarch	Mon 24 May 2021 15:52:40 NZST	Python 3 bindings for the libmagic API
+ca-certificates	2020.2.41	80.0.el8_2	noarch	Thu 13 Aug 2020 04:01:26 NZST	The Mozilla CA root certificate bundle
+python3-gobject-base	3.28.3	2.el8	x86_64	Thu 05 Nov 2020 04:56:23 NZDT	Python 3 bindings for GObject Introspection base package
+python3-rhn-check	2.8.16	13.module+el8.1.0+3455+3ddf2832	x86_64	Mon 13 Jul 2020 17:43:25 NZST	Support programs and libraries for Red Hat Satellite or Spacewalk
+open-vm-tools	11.2.0	2.el8	x86_64	Mon 24 May 2021 15:54:52 NZST	Open Virtual Machine Tools for virtual machines hosted on VMware
+cracklib	2.9.6	15.el8	x86_64	Mon 13 Jul 2020 17:42:20 NZST	A password-checking library
+apr	1.6.3	11.el8	x86_64	Tue 08 Dec 2020 12:42:40 NZDT	Apache Portable Runtime library
+qpid-proton-c	0.34.0	1.el8	x86_64	Mon 24 May 2021 15:52:40 NZST	C libraries for Qpid Proton
+sshpass	1.06	9.el8	x86_64	Fri 14 Aug 2020 10:04:54 NZST	Non-interactive SSH authentication utility
+perf	4.18.0	305.el8	x86_64	Mon 24 May 2021 15:55:00 NZST	Performance monitoring for the Linux kernel
+openssl-pkcs11	0.4.10	2.el8	x86_64	Mon 13 Jul 2020 17:42:20 NZST	A PKCS#11 engine for use with OpenSSL
+runc	1.0.0	70.rc92.module+el8.4.0+10607+f4da7515	x86_64	Mon 24 May 2021 15:52:41 NZST	CLI for running Open Containers
+logrotate	3.14.0	4.el8	x86_64	Thu 05 Nov 2020 04:56:42 NZDT	Rotates, compresses, removes and mails system log files
+gettext-libs	0.19.8.1	17.el8	x86_64	Mon 13 Jul 2020 17:42:23 NZST	Libraries for gettext
+grub2-pc-modules	2.02	99.el8	noarch	Mon 24 May 2021 15:52:41 NZST	Modules used to build custom grub images
+python3-gofer	2.12.5	7.el8sat	noarch	Wed 03 Feb 2021 11:03:24 NZDT	Gofer python lib modules
+geolite2-city	20180605	1.el8	noarch	Mon 13 Jul 2020 17:41:55 NZST	Free IP geolocation city database
+dhcp-libs	4.3.6	44.el8	x86_64	Mon 24 May 2021 15:52:43 NZST	Shared libraries used by ISC dhcp client and server
+policycoreutils	2.9	14.el8	x86_64	Mon 24 May 2021 15:52:43 NZST	SELinux policy core utilities
+xkeyboard-config	2.28	1.el8	noarch	Mon 13 Jul 2020 17:41:56 NZST	X Keyboard Extension configuration data
+openssh	8.0p1	6.el8_4.2	x86_64	Mon 24 May 2021 15:53:20 NZST	An open source implementation of SSH protocol version 2
+katello-host-tools	3.5.4	1.el8sat	noarch	Wed 03 Feb 2021 11:03:32 NZDT	A set of commands and yum plugins that support a Katello host
+policycoreutils-python-utils	2.9	14.el8	noarch	Mon 24 May 2021 15:53:21 NZST	SELinux policy core python utilities
+perl-IO	1.38	419.el8	x86_64	Mon 24 May 2021 15:53:54 NZST	Perl input/output modules
+golang-src	1.15.7	1.module+el8.4.0+9580+3b0e6c24	noarch	Wed 02 Jun 2021 14:49:16 NZST	Golang compiler source tree
+nagios-plugins-file_age	2.3.3	5.el8	x86_64	Mon 24 May 2021 15:53:55 NZST	Nagios Plugin - check_file_age
+glibc-devel	2.28	151.el8	x86_64	Wed 02 Jun 2021 14:49:23 NZST	Object files for development using standard C libraries.
+nagios-plugins-wave	2.3.3	5.el8	x86_64	Mon 24 May 2021 15:53:55 NZST	Nagios Plugin - check_wave
+zlib-devel	1.2.11	17.el8	x86_64	Wed 02 Jun 2021 14:49:26 NZST	Header files and libraries for Zlib development
+bubblewrap	0.4.0	1.el8	x86_64	Mon 24 May 2021 15:53:55 NZST	Core execution tool for unprivileged containers
+pcre2-devel	10.32	2.el8	x86_64	Wed 02 Jun 2021 14:49:27 NZST	Development files for pcre2
+kernel-tools	4.18.0	305.el8	x86_64	Mon 24 May 2021 15:53:56 NZST	Assortment of tools for the Linux kernel
+python3-six	1.11.0	8.el8	noarch	Mon 13 Jul 2020 17:42:29 NZST	Python 2 and 3 compatibility utilities
+krb5-devel	1.18.2	8.el8	x86_64	Wed 02 Jun 2021 14:49:28 NZST	Development files needed to compile Kerberos 5 programs
+lmdb-libs	0.9.24	1.el8	x86_64	Mon 24 May 2021 15:53:56 NZST	Shared libraries for lmdb
+mariadb-connector-c-config	3.1.11	2.el8_3	noarch	Wed 03 Feb 2021 11:05:23 NZDT	Configuration files for packages that use /etc/my.cnf as a configuration file
+json-glib	1.4.4	1.el8	x86_64	Mon 13 Jul 2020 17:42:29 NZST	Library for JavaScript Object Notation format
+go-toolset	1.15.7	1.module+el8.4.0+9580+3b0e6c24	x86_64	Wed 02 Jun 2021 14:49:41 NZST	Package that installs go-toolset
+libndp	1.7	5.el8	x86_64	Mon 24 May 2021 15:53:56 NZST	Library for Neighbor Discovery Protocol
+freetype	2.9.1	4.el8_3.1	x86_64	Wed 03 Feb 2021 11:05:26 NZDT	A free and portable font rendering engine
+libgudev	232	4.el8	x86_64	Mon 13 Jul 2020 17:42:29 NZST	GObject-based wrapper library for libudev
+libgpg-error	1.31	1.el8	x86_64	Mon 13 Jul 2020 17:41:59 NZST	Library for error values used by GnuPG components
+GConf2	3.2.6	22.el8	x86_64	Sun 20 Sep 2020 13:51:42 NZST	A process-transparent configuration system
+python3-rpm-macros	3	41.el8	noarch	Wed 09 Jun 2021 13:47:36 NZST	RPM macros for building Python 3 packages
+sssd-client	2.4.0	9.el8	x86_64	Mon 24 May 2021 15:53:56 NZST	SSSD Client libraries for NSS and PAM
+epel-release	8	10.el8	noarch	Wed 03 Feb 2021 11:05:34 NZDT	Extra Packages for Enterprise Linux repository configuration
+python3-decorator	4.2.1	2.el8	noarch	Mon 13 Jul 2020 17:42:30 NZST	Module to simplify usage of decorators in python3
+zstd	1.4.4	1.el8	x86_64	Wed 09 Jun 2021 13:47:36 NZST	Zstd compression library
+libdrm	2.4.103	1.el8	x86_64	Mon 24 May 2021 15:53:59 NZST	Direct Rendering Manager runtime library
+rubygem-io-console	0.5.6	133.module+el8.3.0+7192+4e3a532a	x86_64	Wed 10 Feb 2021 14:52:09 NZDT	IO/Console is a simple console utilizing library
+grep	3.1	6.el8	x86_64	Mon 13 Jul 2020 17:41:59 NZST	Pattern matching utilities
+ldapvi	1.7	35.el8	x86_64	Fri 02 Oct 2020 15:01:19 NZDT	An interactive LDAP client
+libatomic_ops	7.6.2	3.el8	x86_64	Wed 09 Jun 2021 13:47:36 NZST	Atomic memory update operations
+python2-setuptools	39.0.1	13.module+el8.4.0+9442+27d0e81c	noarch	Mon 24 May 2021 15:53:59 NZST	Easily build and distribute Python packages
+rubygem-openssl	2.1.2	133.module+el8.3.0+7192+4e3a532a	x86_64	Wed 10 Feb 2021 14:52:09 NZDT	OpenSSL provides SSL, TLS and general purpose cryptography
+python3-dbus	1.2.4	15.el8	x86_64	Mon 13 Jul 2020 17:42:32 NZST	D-Bus bindings for python3
+libcap-ng	0.7.9	5.el8	x86_64	Mon 13 Jul 2020 17:41:59 NZST	An alternate posix capabilities library
+python3-hvac	0.9.5	1.el8	noarch	Mon 05 Oct 2020 22:08:34 NZDT	HashiCorp Vault API client for Python 3
+rust-srpm-macros	5	2.el8	noarch	Wed 09 Jun 2021 13:47:38 NZST	RPM macros for building Rust source packages
+gpg-pubkey	fd431d51	4ae0493b	(none)	Tue 14 Jul 2020 10:14:57 NZST	gpg(Red Hat, Inc. (release key 2) <security@redhat.com>)
+dbus-daemon	1.12.8	12.el8_4.2	x86_64	Mon 24 May 2021 15:54:01 NZST	D-BUS message bus
+rubygem-rdoc	6.2.1	133.module+el8.3.0+7192+4e3a532a	noarch	Wed 10 Feb 2021 14:52:10 NZDT	A tool to generate HTML and command-line documentation for Ruby projects
+libref_array	0.1.5	39.el8	x86_64	Mon 13 Jul 2020 17:41:59 NZST	A refcounted array for C
+openblas-srpm-macros	2	2.el8	noarch	Wed 09 Jun 2021 13:47:38 NZST	OpenBLAS architecture macros
+elfutils-debuginfod-client	0.182	3.el8	x86_64	Mon 24 May 2021 15:54:01 NZST	Library and command line client for build-id HTTP ELF/DWARF server
+psacct	6.6.3	4.el8	x86_64	Mon 13 Jul 2020 17:43:35 NZST	Utilities for monitoring process activities
+keyutils-libs	1.5.10	6.el8	x86_64	Mon 13 Jul 2020 17:41:59 NZST	Key utilities library
+rpm-build	4.14.3	13.el8	x86_64	Wed 09 Jun 2021 13:47:39 NZST	Scripts and executable programs used to build packages
+gnutls	3.6.14	8.el8_3	x86_64	Mon 24 May 2021 15:54:02 NZST	A TLS protocol implementation
+libXft	2.3.3	1.el8	x86_64	Sat 20 Feb 2021 21:51:09 NZDT	X.Org X11 libXft runtime library
+glib2	2.56.4	9.el8	x86_64	Mon 24 May 2021 15:54:03 NZST	A library of handy utility functions
+graphite2	1.3.10	10.el8	x86_64	Sat 20 Feb 2021 21:51:10 NZDT	Font rendering capabilities for complex non-Roman writing systems
+cronie	1.5.2	4.el8	x86_64	Mon 13 Jul 2020 17:42:36 NZST	Cron daemon for executing programs at set times
+rpmlint	1.10	14.el8	noarch	Thu 10 Jun 2021 15:19:20 NZST	Tool for checking common errors in RPM packages
+librepo	1.12.0	3.el8	x86_64	Mon 24 May 2021 15:54:04 NZST	Repodata downloading library
+man-db	2.7.6.1	17.el8	x86_64	Mon 13 Jul 2020 17:43:36 NZST	Tools for searching and reading man pages
+nfdump-libs	1.6.22	1.el8	x86_64	Sat 20 Feb 2021 21:51:10 NZDT	Libraries used by NFDUMP packages
+libnl3	3.5.0	1.el8	x86_64	Mon 13 Jul 2020 17:42:00 NZST	Convenience library for kernel netlink sockets
+device-mapper-event-libs	1.02.175	5.el8	x86_64	Mon 24 May 2021 15:54:04 NZST	Device-mapper event daemon shared library
+librhsm	0.0.3	4.el8	x86_64	Mon 24 May 2021 15:54:04 NZST	Red Hat Subscription Manager library
+sg3_utils	1.44	5.el8	x86_64	Mon 13 Jul 2020 17:43:37 NZST	Utilities for devices that use SCSI command sets
+libselinux	2.9	5.el8	x86_64	Mon 24 May 2021 15:52:20 NZST	SELinux library and simple utilities
+libevent	2.1.8	5.el8	x86_64	Mon 13 Jul 2020 17:42:37 NZST	Abstract asynchronous event notification library
+libaio	0.3.112	1.el8	x86_64	Mon 13 Jul 2020 17:42:00 NZST	Linux-native asynchronous I/O access library
+grub2-tools-minimal	2.02	99.el8	x86_64	Mon 24 May 2021 15:54:05 NZST	Support tools for GRUB.
+nano	2.9.8	1.el8	x86_64	Mon 13 Jul 2020 17:43:37 NZST	A small text editor
+bash	4.4.20	1.el8_4	x86_64	Mon 24 May 2021 15:52:22 NZST	The GNU Bourne Again shell
+python3-idna	2.5	5.el8	noarch	Mon 13 Jul 2020 17:42:37 NZST	Internationalized Domain Names in Applications (IDNA)
+libpng	1.6.34	5.el8	x86_64	Mon 13 Jul 2020 17:42:00 NZST	A library of functions for manipulating PNG image format files
+sssd-common-pac	2.4.0	9.el8	x86_64	Mon 24 May 2021 15:54:06 NZST	Common files needed for supporting PAC processing
+bc	1.07.1	5.el8	x86_64	Mon 13 Jul 2020 17:43:37 NZST	GNU's bc (a numeric processing language) and dc (a calculator)
+popt	1.18	1.el8	x86_64	Mon 24 May 2021 15:52:22 NZST	C library for parsing command line parameters
+python3-newt	0.52.20	11.el8	x86_64	Mon 13 Jul 2020 17:42:37 NZST	Python 3 bindings for newt
+python3-libstoragemgmt	1.8.7	1.el8	noarch	Mon 24 May 2021 15:54:06 NZST	Python 3 client libraries and plug-in support for libstoragemgmt
+hostname	3.20	6.el8	x86_64	Mon 13 Jul 2020 17:43:37 NZST	Utility to set/show the host name or domain name
+libuuid	2.32.1	27.el8	x86_64	Mon 24 May 2021 15:52:22 NZST	Universally unique ID library
+fontconfig	2.13.1	3.el8	x86_64	Mon 13 Jul 2020 17:42:38 NZST	Font configuration and customization library
+initscripts	10.00.15	1.el8	x86_64	Mon 24 May 2021 15:54:08 NZST	Basic support for legacy System V init scripts
+mtr	0.92	3.el8	x86_64	Mon 13 Jul 2020 17:43:37 NZST	Network diagnostic tool combining 'traceroute' and 'ping'
+systemd-libs	239	45.el8	x86_64	Mon 24 May 2021 15:52:23 NZST	systemd libraries
+libtasn1	4.13	3.el8	x86_64	Mon 13 Jul 2020 17:42:01 NZST	The ASN.1 library used in GNUTLS
+kpartx	0.8.4	10.el8	x86_64	Mon 24 May 2021 15:54:09 NZST	Partition device manager for device-mapper devices
+libstdc++	8.4.1	1.el8	x86_64	Mon 24 May 2021 15:52:23 NZST	GNU Standard C++ Library
+pixman	0.38.4	1.el8	x86_64	Mon 13 Jul 2020 17:42:01 NZST	Pixel manipulation library
+mailcap	2.1.48	3.el8	noarch	Mon 13 Jul 2020 17:43:40 NZST	Helper application and MIME type associations for file types
+libsss_idmap	2.4.0	9.el8	x86_64	Mon 24 May 2021 15:52:23 NZST	FreeIPA Idmap library
+libnl3-cli	3.5.0	1.el8	x86_64	Mon 13 Jul 2020 17:42:01 NZST	Command line interface utils for libnl3
+nss-util	3.53.1	17.el8_3	x86_64	Mon 24 May 2021 15:52:24 NZST	Network Security Services Utilities Library
+python3-pycparser	2.14	14.el8	noarch	Mon 13 Jul 2020 17:42:40 NZST	C parser and AST generator written in Python
+xz	5.2.4	3.el8	x86_64	Mon 13 Jul 2020 17:42:01 NZST	LZMA compression utilities
+python3-html5lib	0.999999999	6.el8	noarch	Mon 13 Jul 2020 17:48:46 NZST	A python based HTML parser/tokenizer
+protobuf-c	1.3.0	6.el8	x86_64	Mon 24 May 2021 15:52:24 NZST	C bindings for Google's Protocol Buffers
+diffutils	3.6	6.el8	x86_64	Mon 13 Jul 2020 17:42:01 NZST	A GNU collection of diff utilities
+python3-cssselect	0.9.2	10.el8	noarch	Mon 13 Jul 2020 17:48:46 NZST	Parses CSS3 Selectors and translates them to XPath 1.0
+libselinux-utils	2.9	5.el8	x86_64	Mon 24 May 2021 15:52:24 NZST	SELinux libselinux utilities
+audit	3.0	0.17.20191104git1c2f876.el8	x86_64	Mon 13 Jul 2020 17:42:40 NZST	User space tools for kernel auditing
+bind-license	9.11.26	4.el8_4	noarch	Mon 24 May 2021 15:52:24 NZST	License of the BIND DNS suite
+libnetfilter_conntrack	1.0.6	5.el8	x86_64	Mon 13 Jul 2020 17:42:02 NZST	Netfilter conntrack userspace library
+perl-Carp	1.42	396.el8	noarch	Mon 13 Jul 2020 17:49:12 NZST	Alternative warn and die for modules
+squashfs-tools	4.3	20.el8	x86_64	Mon 24 May 2021 15:52:25 NZST	Utility for the creation of squashfs filesystems
+libyaml	0.1.7	5.el8	x86_64	Mon 13 Jul 2020 17:42:02 NZST	YAML 1.1 parser and emitter written in C
+brotli	1.0.6	3.el8	x86_64	Mon 24 May 2021 15:52:25 NZST	Lossless compression algorithm
+sg3_utils-libs	1.44	5.el8	x86_64	Mon 13 Jul 2020 17:42:02 NZST	Shared library for sg3_utils
+crypto-policies-scripts	20210209	1.gitbfb6bed.el8_3	noarch	Mon 24 May 2021 15:52:25 NZST	Tool to switch between crypto policies
+nagios-plugins	2.3.3	5.el8	x86_64	Mon 24 May 2021 15:52:28 NZST	Host/service/network monitoring program plugins for Nagios
+gdbm	1.18	1.el8	x86_64	Mon 13 Jul 2020 17:42:02 NZST	A GNU set of database routines which use extensible hashing
+libcurl	7.61.1	18.el8	x86_64	Mon 24 May 2021 15:52:29 NZST	A library for getting files from web servers
+ipset	7.1	1.el8	x86_64	Mon 13 Jul 2020 17:42:02 NZST	Manage Linux IP sets
+kmod	25	17.el8	x86_64	Mon 24 May 2021 15:52:29 NZST	Linux kernel module management utilities
+timedatex	0.5	3.el8	x86_64	Mon 13 Jul 2020 17:43:19 NZST	D-Bus service for system clock and RTC settings
+groff-base	1.22.3	18.el8	x86_64	Mon 13 Jul 2020 17:42:03 NZST	Parts of the groff formatting system required to display manual pages
+libsss_certmap	2.4.0	9.el8	x86_64	Mon 24 May 2021 15:52:29 NZST	SSSD Certificate Mapping Library
+libnfsidmap	2.3.3	41.el8	x86_64	Mon 24 May 2021 15:52:30 NZST	NFSv4 User and Group ID Mapping Library
+python3-syspurpose	1.28.13	2.el8	x86_64	Mon 24 May 2021 15:52:30 NZST	A commandline utility for declaring system syspurpose
+mozjs60	60.9.0	4.el8	x86_64	Mon 13 Jul 2020 17:42:04 NZST	SpiderMonkey JavaScript library
+nodejs-full-i18n	10.24.0	1.module+el8.3.0+10166+b07ac28e	x86_64	Mon 24 May 2021 15:52:34 NZST	Non-English locale data for Node.js
+pigz	2.4	4.el8	x86_64	Mon 13 Jul 2020 17:42:04 NZST	Parallel implementation of gzip
+pciutils	3.7.0	1.el8	x86_64	Mon 24 May 2021 15:52:35 NZST	PCI bus related utilities
+libsecret	0.18.6	1.el8	x86_64	Mon 13 Jul 2020 17:43:20 NZST	Library for storing and retrieving passwords and other secrets
+perl-Unicode-Normalize	1.25	396.el8	x86_64	Mon 13 Jul 2020 17:49:13 NZST	Unicode Normalization Forms
+iptables-libs	1.8.4	17.el8	x86_64	Mon 24 May 2021 15:52:36 NZST	iptables libraries
+perl-Text-Tabs+Wrap	2013.0523	395.el8	noarch	Mon 13 Jul 2020 17:49:13 NZST	Expand tabs and do simple line wrapping
+python3-firewall	0.8.2	6.el8	noarch	Mon 24 May 2021 15:52:36 NZST	Python3 bindings for firewalld
+hardlink	1.3	6.el8	x86_64	Mon 13 Jul 2020 17:42:06 NZST	Create a tree of hardlinks
+perl-MIME-Base64	3.15	396.el8	x86_64	Mon 13 Jul 2020 17:49:14 NZST	Encoding and decoding of Base64 and quoted-printable strings
+bind-libs	9.11.26	4.el8_4	x86_64	Mon 24 May 2021 15:52:37 NZST	Libraries used by the BIND DNS packages
+perl-Digest-MD5	2.55	396.el8	x86_64	Mon 13 Jul 2020 17:49:14 NZST	Perl interface to the MD5 algorithm
+nagios-plugins-ldap	2.3.3	5.el8	x86_64	Mon 24 May 2021 15:52:37 NZST	Nagios Plugin - check_ldap
+libpipeline	1.5.0	2.el8	x86_64	Mon 13 Jul 2020 17:42:06 NZST	A pipeline manipulation library
+perl-Term-Cap	1.17	395.el8	noarch	Mon 13 Jul 2020 17:49:15 NZST	Perl termcap interface
+libdb-utils	5.3.28	40.el8	x86_64	Mon 24 May 2021 15:52:38 NZST	Command line tools for managing Berkeley DB databases
+xdg-utils	1.1.2	5.el8	noarch	Mon 13 Jul 2020 17:43:21 NZST	Basic desktop integration functions
+libsigsegv	2.11	5.el8	x86_64	Mon 13 Jul 2020 17:42:06 NZST	Library for handling page faults in user mode
+perl-Filter	1.58	2.el8	x86_64	Mon 13 Jul 2020 17:49:15 NZST	Perl source filters
+rpm-plugin-systemd-inhibit	4.14.3	13.el8	x86_64	Mon 24 May 2021 15:52:38 NZST	Rpm plugin for systemd inhibit functionality
+fipscheck	1.5.0	4.el8	x86_64	Mon 13 Jul 2020 17:43:21 NZST	A library for integrity verification of FIPS validated modules
+libpq	13.2	1.el8	x86_64	Mon 24 May 2021 15:52:38 NZST	PostgreSQL client library
+libverto	0.3.0	5.el8	x86_64	Mon 13 Jul 2020 17:42:07 NZST	Main loop abstraction library
+perl-podlators	4.11	1.el8	noarch	Mon 13 Jul 2020 17:49:15 NZST	Format POD source into various output formats
+nagios-plugins-cluster	2.3.3	5.el8	x86_64	Mon 24 May 2021 15:52:38 NZST	Nagios Plugin - check_cluster
+nagios-plugins-fping	2.3.3	5.el8	x86_64	Mon 24 May 2021 15:52:38 NZST	Nagios Plugin - check_fping
+python3-asn1crypto	0.24.0	3.el8	noarch	Mon 13 Jul 2020 17:43:22 NZST	Fast Python ASN.1 parser and serializer
+nagios-plugins-load	2.3.3	5.el8	x86_64	Mon 24 May 2021 15:52:38 NZST	Nagios Plugin - check_load
+python3-chardet	3.0.4	7.el8	noarch	Mon 13 Jul 2020 17:43:22 NZST	Character encoding auto-detection in Python 3
+libmspack	0.7	0.3.alpha.el8.4	x86_64	Mon 13 Jul 2020 17:42:09 NZST	Library for CAB and related files compression and decompression
+perl-Module-Runtime	0.016	2.el8	noarch	Mon 13 Jul 2020 17:49:16 NZST	Runtime module handling
+nagios-plugins-nagios	2.3.3	5.el8	x86_64	Mon 24 May 2021 15:52:38 NZST	Nagios Plugin - check_nagios
+nagios-plugins-oracle	2.3.3	5.el8	x86_64	Mon 24 May 2021 15:52:38 NZST	Nagios Plugin - check_oracle
+nagios-plugins-ssh	2.3.3	5.el8	x86_64	Mon 24 May 2021 15:52:38 NZST	Nagios Plugin - check_ssh
+emacs-filesystem	26.1	5.el8	noarch	Mon 13 Jul 2020 17:42:19 NZST	Emacs filesystem layout
+nagios-plugins-users	2.3.3	5.el8	x86_64	Mon 24 May 2021 15:52:39 NZST	Nagios Plugin - check_users
+python3-pysocks	1.6.8	3.el8	noarch	Mon 13 Jul 2020 17:43:25 NZST	A Python SOCKS client module
+python3-xmltodict	0.12.0	6.el8	noarch	Mon 24 May 2021 15:52:39 NZST	A Python to transform XML to JSON
+gpg-pubkey	be1229cf	5631588c	(none)	Thu 06 Aug 2020 10:50:18 NZST	gpg(Microsoft (Release signing) <gpgsecurity@microsoft.com>)
+esmtp	1.2	15.el8	x86_64	Mon 13 Jul 2020 17:49:17 NZST	User configurable send-only Mail Transfer Agent
+sos	4.0	11.el8	noarch	Mon 24 May 2021 15:52:40 NZST	A set of tools to gather troubleshooting information from a system
+rhn-client-tools	2.8.16	13.module+el8.1.0+3455+3ddf2832	x86_64	Mon 13 Jul 2020 17:43:25 NZST	Support programs and libraries for Red Hat Satellite or Spacewalk
+python3-ply	3.9	9.el8	noarch	Mon 24 May 2021 15:52:40 NZST	Python Lex-Yacc
+rhn-check	2.8.16	13.module+el8.1.0+3455+3ddf2832	x86_64	Mon 13 Jul 2020 17:43:25 NZST	Check for RHN actions
+gpg-pubkey	1c0c4a5d	5a284111	(none)	Fri 20 Nov 2020 17:13:22 NZDT	gpg(Tenable Network Security, Inc. <releases@tenable.com>)
+python3-pytz	2017.2	9.el8	noarch	Fri 14 Aug 2020 10:04:52 NZST	World Timezone Definitions for Python
+python3-pyasn1-modules	0.3.7	6.el8	noarch	Mon 13 Jul 2020 17:49:36 NZST	Modules for pyasn1
+nagios-plugins-dns	2.3.3	5.el8	x86_64	Mon 24 May 2021 15:52:40 NZST	Nagios Plugin - check_dns
+python3-systemd	234	8.el8	x86_64	Mon 13 Jul 2020 17:43:25 NZST	Python module wrapping systemd functionality
+apr-util-openssl	1.6.1	6.el8	x86_64	Tue 08 Dec 2020 12:42:40 NZDT	APR utility library OpenSSL crypto support
+python3-bcrypt	3.1.6	2.el8.1	x86_64	Fri 14 Aug 2020 10:04:54 NZST	Modern password hashing for your software and your servers
+perl-Error	0.17025	2.el8	noarch	Mon 13 Jul 2020 17:49:37 NZST	Error/exception handling in an OO-ish way
+net-snmp-libs	5.8	20.el8	x86_64	Mon 24 May 2021 15:52:40 NZST	The NET-SNMP runtime client libraries
+libicu	60.3	2.el8_1	x86_64	Mon 13 Jul 2020 17:49:38 NZST	International Components for Unicode - libraries
+criu	3.15	1.module+el8.4.0+10607+f4da7515	x86_64	Mon 24 May 2021 15:52:41 NZST	Tool for Checkpoint/Restore in User-space
+gpg-pubkey	c62934a0	59f38170	(none)	Wed 03 Feb 2021 11:03:00 NZDT	gpg(Nagios Enterprises <sales@nagios.com>)
+krb5-workstation	1.18.2	8.el8	x86_64	Mon 24 May 2021 15:57:00 NZST	Kerberos 5 programs for use on workstations
+vault	1.7.2	1	x86_64	Mon 24 May 2021 15:57:26 NZST	A tool for secrets management, encryption as a service, and privileged access management. Please submit issues to https://github.com/hashicorp/vault/issues
+colordiff	1.0.19	1.el8	noarch	Mon 13 Jul 2020 17:49:42 NZST	Color terminal highlighter for diff files
+python3-pip	9.0.3	19.el8	noarch	Mon 24 May 2021 15:57:27 NZST	A tool for installing and managing Python3 packages
+rsync	3.1.3	12.el8	x86_64	Mon 24 May 2021 15:57:28 NZST	A program for synchronizing files over a network
+git	2.27.0	1.el8	x86_64	Thu 05 Nov 2020 04:56:49 NZDT	Fast Version Control System
+libgomp	8.4.1	1.el8	x86_64	Mon 24 May 2021 15:57:34 NZST	GCC OpenMP v4.5 shared support library
+NetworkManager-config-server	1.30.0	7.el8	noarch	Mon 24 May 2021 15:57:35 NZST	NetworkManager config file for "server-like" defaults
+python3-gobject	3.28.3	2.el8	x86_64	Thu 05 Nov 2020 04:56:58 NZDT	Python 3 bindings for GObject Introspection
+rhnsd	5.0.35	3.module+el8+2754+6a08e8f4	x86_64	Mon 13 Jul 2020 17:51:40 NZST	Spacewalk query daemon
+libnghttp2	1.33.0	3.el8_2.1	x86_64	Mon 13 Jul 2020 17:51:40 NZST	A library implementing the HTTP/2 protocol
+libbabeltrace	1.5.4	3.el8	x86_64	Thu 05 Nov 2020 04:57:04 NZDT	Common Trace Format Babel Tower
+gnupg2	2.2.20	2.el8	x86_64	Thu 05 Nov 2020 04:58:16 NZDT	Utility for secure communication and data storage
+PackageKit	1.1.12	6.el8	x86_64	Thu 05 Nov 2020 04:58:17 NZDT	Package management service
+cups-libs	2.2.6	38.el8	x86_64	Thu 05 Nov 2020 04:58:23 NZDT	CUPS printing system - libraries
+e2fsprogs	1.45.6	1.el8	x86_64	Thu 05 Nov 2020 04:58:24 NZDT	Utilities for managing ext2, ext3, and ext4 file systems
+nagios-plugins-rpc	2.3.3	5.el8	x86_64	Mon 24 May 2021 15:54:10 NZST	Nagios Plugin - check_rpc
+perl-Net-SSLeay	1.88	1.module+el8.3.0+6446+594cad75	x86_64	Thu 05 Nov 2020 04:58:26 NZDT	Perl extension for using OpenSSL
+filesystem	3.8	3.el8	x86_64	Thu 05 Nov 2020 04:55:52 NZDT	The basic directory layout for a Linux system
+sssd-ad	2.4.0	9.el8	x86_64	Mon 24 May 2021 15:54:10 NZST	The AD back end of the SSSD
+libblockdev-lvm	2.24	5.el8	x86_64	Mon 24 May 2021 15:54:11 NZST	The LVM plugin for the libblockdev library
+python3-librepo	1.12.0	3.el8	x86_64	Mon 24 May 2021 15:54:11 NZST	Python 3 bindings for the librepo library
+sed	4.5	2.el8	x86_64	Thu 05 Nov 2020 04:55:55 NZDT	A GNU stream text editor
+libblockdev-swap	2.24	5.el8	x86_64	Mon 24 May 2021 15:54:11 NZST	The swap plugin for the libblockdev library
+chkconfig	1.13	2.el8	x86_64	Thu 05 Nov 2020 04:55:56 NZDT	A system tool for maintaining the /etc/rc*.d hierarchy
+libgcab1	1.1	1.el8	x86_64	Mon 24 May 2021 15:54:11 NZST	Library to create Cabinet archives
+libzstd	1.4.4	1.el8	x86_64	Thu 05 Nov 2020 04:55:56 NZDT	Zstd shared library
+libxmlb	0.1.15	1.el8	x86_64	Mon 24 May 2021 15:54:11 NZST	Library for querying compressed XML metadata
+openscap	1.3.4	5.el8	x86_64	Mon 24 May 2021 15:54:13 NZST	Set of open source libraries enabling integration of the SCAP line of standards
+slirp4netns	1.1.8	1.module+el8.4.0+10607+f4da7515	x86_64	Mon 24 May 2021 15:54:13 NZST	slirp for network namespaces
+perl-HTML-Tagset	3.20	34.module+el8.3.0+6498+9eecfe51	noarch	Thu 05 Nov 2020 04:58:30 NZDT	HTML::Tagset - data tables useful in parsing HTML
+oddjob	0.34.7	1.el8	x86_64	Mon 24 May 2021 15:54:13 NZST	A D-Bus service which runs odd jobs on behalf of client applications
+gssproxy	0.8.0	19.el8	x86_64	Mon 24 May 2021 15:54:13 NZST	GSSAPI Proxy
+perl-HTTP-Date	6.02	19.module+el8.3.0+6498+9eecfe51	noarch	Thu 05 Nov 2020 04:58:35 NZDT	Date conversion routines
+nagios-plugins-sensors	2.3.3	5.el8	x86_64	Mon 24 May 2021 15:54:14 NZST	Nagios Plugin - check_sensors
+perl-HTTP-Cookies	6.04	2.module+el8.3.0+6498+9eecfe51	noarch	Thu 05 Nov 2020 04:58:35 NZDT	HTTP cookie jars
+libpsl	0.20.2	6.el8	x86_64	Thu 05 Nov 2020 04:55:58 NZDT	C library for the Publix Suffix List
+authselect-compat	1.2.2	2.el8	x86_64	Mon 24 May 2021 15:54:15 NZST	Tool to provide minimum backwards compatibility with authconfig
+python2-pip	9.0.3	18.module+el8.3.0+7707+eb4bba01	noarch	Thu 05 Nov 2020 04:58:37 NZDT	A tool for installing and managing Python 2 packages
+unbound-libs	1.7.3	15.el8	x86_64	Mon 24 May 2021 15:54:15 NZST	Libraries used by the unbound server and client applications
+perl-Digest-HMAC	1.03	17.module+el8.3.0+6498+9eecfe51	noarch	Thu 05 Nov 2020 04:58:41 NZDT	Keyed-Hashing for Message Authentication
+python3-rpm	4.14.3	13.el8	x86_64	Mon 24 May 2021 15:54:15 NZST	Python 3 bindings for apps which will manipulate RPM packages
+gsettings-desktop-schemas	3.32.0	5.el8	x86_64	Thu 05 Nov 2020 04:58:41 NZDT	A collection of GSettings schemas
+coreutils-common	8.30	8.el8	x86_64	Thu 05 Nov 2020 04:56:01 NZDT	coreutils common optional components
+cryptsetup	2.3.3	4.el8	x86_64	Mon 24 May 2021 15:54:15 NZST	A utility for setting up encrypted disks
+perl-Digest-SHA	6.02	1.el8	x86_64	Thu 23 Jul 2020 02:52:17 NZST	Perl extension for SHA-1/224/256/384/512
+fwupd	1.5.5	3.el8	x86_64	Mon 24 May 2021 15:54:17 NZST	Firmware update daemon
+vim-minimal	8.0.1763	15.el8	x86_64	Thu 05 Nov 2020 04:56:03 NZDT	A minimal version of the VIM editor
+perl-IO-Compress	2.081	1.el8	noarch	Thu 23 Jul 2020 02:52:17 NZST	Read and write compressed data
+device-mapper-multipath	0.8.4	10.el8	x86_64	Mon 24 May 2021 15:54:17 NZST	Tools to manage multipath devices using device-mapper
+quota-nls	4.04	12.el8	noarch	Mon 24 May 2021 15:54:17 NZST	Gettext catalogs for disk quota tools
+dnf	4.4.2	11.el8	noarch	Mon 24 May 2021 15:54:17 NZST	Package manager
+libssh	0.9.4	2.el8	x86_64	Thu 05 Nov 2020 04:56:12 NZDT	A library implementing the SSH protocol
+kpatch-dnf	0.2	3.el8	noarch	Mon 24 May 2021 15:54:17 NZST	kpatch-patch manager plugin for DNF
+grubby	8.40	41.el8	x86_64	Thu 05 Nov 2020 04:56:12 NZDT	Command line tool for updating BootLoaderSpec files
+containers-common	1.2.2	8.module+el8.4.0+10607+f4da7515	x86_64	Mon 24 May 2021 15:54:18 NZST	Configuration files for working with image signatures
+dhcp-client	4.3.6	44.el8	x86_64	Mon 24 May 2021 15:54:19 NZST	Provides the ISC DHCP client daemon and dhclient-script
+subscription-manager-cockpit	1.28.13	2.el8	noarch	Mon 24 May 2021 15:54:20 NZST	Subscription Manager Cockpit UI
+kernel-modules	4.18.0	305.el8	x86_64	Mon 24 May 2021 15:54:40 NZST	kernel modules to match the core kernel
+httpd	2.4.37	39.module+el8.4.0+9658+b87b2deb	x86_64	Mon 24 May 2021 15:54:44 NZST	Apache HTTP Server
+kernel	4.18.0	305.el8	x86_64	Mon 24 May 2021 15:54:45 NZST	The Linux kernel, based on version 4.18.0, heavily modified with backports
+cockpit-podman	29	2.module+el8.4.0+10607+f4da7515	noarch	Mon 24 May 2021 15:54:47 NZST	Cockpit component for Podman containers
+libsoup	2.62.3	2.el8	x86_64	Thu 05 Nov 2020 04:59:21 NZDT	Soup, an HTTP library implementation
+yum	4.4.2	11.el8	noarch	Mon 24 May 2021 15:54:48 NZST	Package manager
+shim-x64	15.4	2.el8_1	x86_64	Mon 24 May 2021 15:54:48 NZST	First-stage UEFI bootloader
+libXext	1.3.4	1.el8	x86_64	Thu 05 Nov 2020 04:59:22 NZDT	X.Org X11 libXext runtime library
+grub2-efi-x64	2.02	99.el8	x86_64	Mon 24 May 2021 15:54:51 NZST	GRUB for EFI systems.
+NetworkManager-tui	1.30.0	7.el8	x86_64	Mon 24 May 2021 15:54:51 NZST	NetworkManager curses-based UI
+jimtcl	0.77	6.el8	x86_64	Thu 05 Nov 2020 04:59:23 NZDT	A small embeddable Tcl interpreter
+sssd-kcm	2.4.0	9.el8	x86_64	Mon 24 May 2021 15:54:51 NZST	An implementation of a Kerberos KCM server
+qemu-guest-agent	4.2.0	48.module+el8.4.0+10368+630e803b	x86_64	Mon 24 May 2021 15:54:52 NZST	QEMU guest agent
+mcelog	173	0.el8	x86_64	Mon 24 May 2021 15:55:00 NZST	Tool to translate x86-64 CPU Machine Check Exception data
+strace	5.7	2.el8	x86_64	Mon 24 May 2021 15:55:01 NZST	Tracks and displays system calls associated with a running process
+mdatp	101.29.64	1	x86_64	Mon 24 May 2021 15:56:34 NZST	Microsoft Defender Advanced Threat Protection for Endpoints (Production)
+nss-sysinit	3.53.1	17.el8_3	x86_64	Mon 24 May 2021 15:52:41 NZST	System NSS Initialization
+audispd-plugins	3.0	0.17.20191104git1c2f876.el8	x86_64	Mon 13 Jul 2020 17:49:42 NZST	Plugins for the audit event dispatcher
+snap-confine	2.50	1.el8	x86_64	Mon 24 May 2021 15:52:42 NZST	Confinement system for snap applications
+geolite2-country	20180605	1.el8	noarch	Mon 13 Jul 2020 17:41:53 NZST	Free IP geolocation country database
+sqlite	3.26.0	13.el8	x86_64	Mon 24 May 2021 15:52:43 NZST	Library that implements an embeddable SQL database engine
+rpm-plugin-selinux	4.14.3	13.el8	x86_64	Mon 24 May 2021 15:52:43 NZST	Rpm plugin for SELinux functionality
+libutempter	1.1.6	14.el8	x86_64	Mon 13 Jul 2020 17:42:25 NZST	A privileged helper for utmp/wtmp updates
+openssh-clients	8.0p1	6.el8_4.2	x86_64	Mon 24 May 2021 15:53:20 NZST	An open source SSH client applications
+container-selinux	2.158.0	1.module+el8.4.0+10607+f4da7515	noarch	Mon 24 May 2021 15:53:21 NZST	SELinux policies for container runtimes
+os-prober	1.74	6.el8	x86_64	Mon 13 Jul 2020 17:42:25 NZST	Probes disks on the system for installed operating systems
+kernel	4.18.0	240.10.1.el8_3	x86_64	Wed 03 Feb 2021 11:04:10 NZDT	The Linux kernel, based on version 4.18.0, heavily modified with backports
+perl-interpreter	5.26.3	419.el8	x86_64	Mon 24 May 2021 15:53:55 NZST	Standalone executable Perl interpreter
+basesystem	11	5.el8	noarch	Mon 13 Jul 2020 17:41:57 NZST	The skeleton package which defines a simple Red Hat Enterprise Linux system
+delve	1.5.0	2.module+el8.4.0+8864+58b0fcdb	x86_64	Wed 02 Jun 2021 14:49:01 NZST	A debugger for the Go programming language
+nagios-plugins-flexlm	2.3.3	5.el8	x86_64	Mon 24 May 2021 15:53:55 NZST	Nagios Plugin - check_flexlm
+ncurses-base	6.1	7.20180224.el8	noarch	Mon 13 Jul 2020 17:41:57 NZST	Descriptions of common terminals
+glibc-headers	2.28	151.el8	x86_64	Wed 02 Jun 2021 14:49:23 NZST	Header files for development using standard C libraries.
+libbpf	0.2.0	1.el8	x86_64	Mon 24 May 2021 15:53:55 NZST	Libbpf library
+libsepol-devel	2.9	2.el8	x86_64	Wed 02 Jun 2021 14:49:26 NZST	Header files and libraries used to build policy manipulation tools
+gofer	2.12.5	7.el8sat	noarch	Wed 03 Feb 2021 11:05:21 NZDT	A lightweight, extensible python agent
+gzip	1.9	12.el8	x86_64	Mon 24 May 2021 15:53:55 NZST	The GNU data compression program
+pcre2-utf16	10.32	2.el8	x86_64	Wed 02 Jun 2021 14:49:26 NZST	UTF-16 variant of PCRE2
+libsmbios	2.4.1	2.el8	x86_64	Mon 24 May 2021 15:53:56 NZST	Libsmbios C/C++ shared libraries
+xz-libs	5.2.4	3.el8	x86_64	Mon 13 Jul 2020 17:41:59 NZST	Libraries for decoding LZMA compression
+libcroco	0.6.12	4.el8_2.1	x86_64	Thu 10 Sep 2020 05:49:23 NZST	A CSS2 parsing library
+keyutils-libs-devel	1.5.10	6.el8	x86_64	Wed 02 Jun 2021 14:49:27 NZST	Development package for building Linux key management utilities
+polkit-libs	0.115	11.el8	x86_64	Mon 13 Jul 2020 17:42:29 NZST	Libraries for polkit
+libldb	2.2.0	2.el8	x86_64	Mon 24 May 2021 15:53:56 NZST	A schema-less, ldap like, API and database
+golang-bin	1.15.7	1.module+el8.4.0+9580+3b0e6c24	x86_64	Wed 02 Jun 2021 14:49:41 NZST	Golang core compiler tools
+polkit	0.115	11.el8	x86_64	Mon 13 Jul 2020 17:42:29 NZST	An authorization framework
+lm_sensors-libs	3.4.0	22.20180522git70f7e08.el8	x86_64	Mon 24 May 2021 15:53:56 NZST	Lm_sensors core libraries
+python-rpm-macros	3	41.el8	noarch	Wed 09 Jun 2021 13:47:36 NZST	The unversioned Python RPM macros
+htop	3.0.5	1.el8	x86_64	Wed 03 Feb 2021 11:05:34 NZDT	Interactive process viewer
+libsss_sudo	2.4.0	9.el8	x86_64	Mon 24 May 2021 15:53:56 NZST	A library to allow communication between SUDO and SSSD
+xml-common	0.6.3	50.el8	noarch	Sun 20 Sep 2020 14:16:00 NZST	Common XML catalog and DTD files
+annobin	9.50	1.el8	x86_64	Wed 09 Jun 2021 13:47:36 NZST	Annotate and examine compiled binary files
+xfsdump	3.1.8	2.el8	x86_64	Mon 13 Jul 2020 17:43:32 NZST	Administrative utilities for the XFS filesystem
+rubygem-psych	3.1.0	133.module+el8.3.0+7192+4e3a532a	x86_64	Wed 10 Feb 2021 14:52:09 NZDT	A libyaml wrapper for Ruby
+libX11-common	1.6.8	4.el8	noarch	Mon 24 May 2021 15:53:59 NZST	Common data for libX11
+pcre	8.42	4.el8	x86_64	Mon 13 Jul 2020 17:41:59 NZST	Perl-compatible regular expression library
+dwz	0.12	9.el8	x86_64	Wed 09 Jun 2021 13:47:36 NZST	DWARF optimization and duplicate removal tool
+python3-dateutil	2.6.1	6.el8	noarch	Mon 13 Jul 2020 17:42:30 NZST	Powerful extensions to the standard datetime module
+ruby	2.7.1	133.module+el8.3.0+7192+4e3a532a	x86_64	Wed 10 Feb 2021 14:52:09 NZDT	An interpreter of object-oriented scripting language
+python2	2.7.18	4.module+el8.4.0+9577+0b56c8de	x86_64	Mon 24 May 2021 15:53:59 NZST	An interpreted, interactive, object-oriented programming language
+libbasicobjects	0.1.1	39.el8	x86_64	Mon 13 Jul 2020 17:41:59 NZST	Basic object types for C
+python3-pyhcl	0.3.13	2.el8	noarch	Mon 05 Oct 2020 22:08:34 NZDT	HCL configuration parser for Python
+gdb-headless	8.2	15.el8	x86_64	Wed 09 Jun 2021 13:47:38 NZST	A GNU source-level debugger for C, C++, Fortran, Go and other languages
+gobject-introspection	1.56.1	1.el8	x86_64	Mon 13 Jul 2020 17:42:32 NZST	Introspection system for GObject-based libraries
+at	3.1.20	11.el8	x86_64	Mon 13 Jul 2020 17:43:33 NZST	Job spooling tools
+rubygem-irb	1.2.3	133.module+el8.3.0+7192+4e3a532a	noarch	Wed 10 Feb 2021 14:52:10 NZDT	The Interactive Ruby
+gpg-pubkey	d4082792	5b32db75	(none)	Tue 14 Jul 2020 10:14:57 NZST	gpg(Red Hat, Inc. (auxiliary key) <security@redhat.com>)
+device-mapper	1.02.175	5.el8	x86_64	Mon 24 May 2021 15:54:01 NZST	Device mapper utility
+libdhash	0.5.0	39.el8	x86_64	Mon 13 Jul 2020 17:41:59 NZST	Dynamic hash table
+perl-srpm-macros	1	25.el8	noarch	Wed 09 Jun 2021 13:47:38 NZST	RPM macros for building Perl source package from source repository
+elfutils-default-yama-scope	0.182	3.el8	noarch	Mon 24 May 2021 15:54:01 NZST	Default yama attach scope sysctl setting
+gmp	6.1.2	10.el8	x86_64	Mon 13 Jul 2020 17:41:59 NZST	A GNU arbitrary precision library
+patch	2.7.6	11.el8	x86_64	Wed 09 Jun 2021 13:47:39 NZST	Utility for modifying/upgrading files
+parted	3.2	38.el8	x86_64	Mon 13 Jul 2020 17:42:33 NZST	The GNU disk partition manipulation program
+rubygem-bundler	2.1.4	133.module+el8.3.0+7192+4e3a532a	noarch	Wed 10 Feb 2021 14:56:08 NZDT	Library and utilities to manage a Ruby application's gem dependencies
+systemd	239	45.el8	x86_64	Mon 24 May 2021 15:54:02 NZST	System and Service Manager
+blktrace	1.2.0	10.el8	x86_64	Mon 13 Jul 2020 17:43:35 NZST	Utilities for performing block layer IO tracing in the Linux kernel
+libthai	0.1.27	2.el8	x86_64	Sat 20 Feb 2021 21:51:10 NZDT	Thai language support routines
+sssd-common	2.4.0	9.el8	x86_64	Mon 24 May 2021 15:54:03 NZST	Common files for the SSSD
+lwr	0.1	1.el8	x86_64	Wed 09 Jun 2021 15:16:36 NZST	Lightweight replacement for LanSweeper Agent on Linux
+cronie-anacron	1.5.2	4.el8	x86_64	Mon 13 Jul 2020 17:42:36 NZST	Utility for running regular jobs
+prefixdevname	0.1.0	6.el8	x86_64	Mon 13 Jul 2020 17:43:35 NZST	Udev helper utility that provides network interface naming using user defined prefix
+rrdtool	1.7.0	16.el8	x86_64	Sat 20 Feb 2021 21:51:10 NZDT	Round Robin Database Tool to store and display time-series data
+libmnl	1.0.4	6.el8	x86_64	Mon 13 Jul 2020 17:42:00 NZST	A minimalistic Netlink library
+perl-Compress-Raw-Zlib	2.081	1.el8	x86_64	Thu 23 Jul 2020 02:51:06 NZST	Low-level interface to the zlib compression library
+gdk-pixbuf2	2.36.12	5.el8	x86_64	Mon 13 Jul 2020 17:42:37 NZST	An image loading library
+zip	3.0	23.el8	x86_64	Mon 13 Jul 2020 17:43:36 NZST	A file compression and packaging utility compatible with PKZIP
+kernel	4.18.0	240.22.1.el8_3	x86_64	Thu 13 May 2021 21:39:40 NZST	The Linux kernel, based on version 4.18.0, heavily modified with backports
+efibootmgr	16	1.el8	x86_64	Mon 13 Jul 2020 17:43:37 NZST	EFI Boot Manager
+glibc	2.28	151.el8	x86_64	Mon 24 May 2021 15:52:21 NZST	The GNU libc libraries
+libgcc	8.4.1	1.el8	x86_64	Mon 24 May 2021 15:52:22 NZST	GCC version 8 shared support library
+virt-what	1.18	6.el8	x86_64	Mon 13 Jul 2020 17:42:37 NZST	Detect if we are running in a virtual machine
+perl-libs	5.26.3	419.el8	x86_64	Mon 24 May 2021 15:52:22 NZST	The libraries for the perl run-time
+cairo	1.15.12	3.el8	x86_64	Mon 13 Jul 2020 17:42:39 NZST	A 2D graphics library
+libmount	2.32.1	27.el8	x86_64	Mon 24 May 2021 15:52:23 NZST	Device mounting library
+gdbm-libs	1.18	1.el8	x86_64	Mon 13 Jul 2020 17:42:01 NZST	Libraries files for gdbm
+langpacks-en	1.0	12.el8	noarch	Mon 13 Jul 2020 17:43:37 NZST	English langpacks meta-package
+gpgme	1.13.1	7.el8	x86_64	Mon 24 May 2021 15:52:23 NZST	GnuPG Made Easy - high level crypto API
+rootfiles	8.1	22.el8	noarch	Mon 13 Jul 2020 17:43:40 NZST	The basic required files for the root user's directory
+grub2-common	2.02	99.el8	noarch	Mon 24 May 2021 15:52:23 NZST	grub2 common layout
+cairo-gobject	1.15.12	3.el8	x86_64	Mon 13 Jul 2020 17:42:40 NZST	GObject bindings for cairo
+nagios-common	4.4.6	4.el8	x86_64	Mon 24 May 2021 15:52:24 NZST	Provides common directories, uid and gid among nagios-related packages
+mpfr	3.1.6	1.el8	x86_64	Mon 13 Jul 2020 17:42:01 NZST	A C library for multiple-precision floating-point computations
+python3-cffi	1.11.5	5.el8	x86_64	Mon 13 Jul 2020 17:42:40 NZST	Foreign Function Interface for Python 3 to call C code
+python3-webencodings	0.5.1	6.el8	noarch	Mon 13 Jul 2020 17:48:46 NZST	Documentation for python-webencodings
+libsmartcols	2.32.1	27.el8	x86_64	Mon 24 May 2021 15:52:24 NZST	Formatting library for ls-like programs.
+gdisk	1.0.3	6.el8	x86_64	Mon 13 Jul 2020 17:42:01 NZST	An fdisk-like partitioning tool for GPT disks
+file	5.33	16.el8_3.1	x86_64	Mon 24 May 2021 15:52:24 NZST	A utility for determining file types
+dmidecode	3.2	8.el8	x86_64	Mon 24 May 2021 15:52:24 NZST	Tool to analyse BIOS DMI data
+libnfnetlink	1.0.1	13.el8	x86_64	Mon 13 Jul 2020 17:42:02 NZST	Netfilter netlink userspace library
+perl-Exporter	5.72	396.el8	noarch	Mon 13 Jul 2020 17:49:12 NZST	Implements default import method for modules
+dbus-tools	1.12.8	12.el8_4.2	x86_64	Mon 24 May 2021 15:52:25 NZST	D-BUS Tools and Utilities
+libini_config	1.3.1	39.el8	x86_64	Mon 13 Jul 2020 17:42:02 NZST	INI file parser for C
+ethtool	5.8	5.el8	x86_64	Mon 24 May 2021 15:52:25 NZST	Settings tool for Ethernet NICs
+openssl-libs	1.1.1g	15.el8_3	x86_64	Mon 24 May 2021 15:52:25 NZST	A general purpose cryptography library with TLS implementation
+python3-libs	3.6.8	37.el8	x86_64	Mon 24 May 2021 15:52:28 NZST	Python runtime libraries
+kmod-libs	25	17.el8	x86_64	Mon 24 May 2021 15:52:28 NZST	Libraries to handle kernel module loading and unloading
+ipset-libs	7.1	1.el8	x86_64	Mon 13 Jul 2020 17:42:02 NZST	Shared library providing the IP sets functionality
+pam	1.3.1	14.el8	x86_64	Mon 24 May 2021 15:52:29 NZST	An extensible library which provides authentication for applications
+python3-configobj	5.0.6	11.el8	noarch	Mon 13 Jul 2020 17:43:19 NZST	Config file reading, writing, and validation for Python 3
+iproute	5.9.0	4.el8	x86_64	Mon 24 May 2021 15:52:29 NZST	Advanced IP routing and network device configuration tools
+attr	2.4.48	3.el8	x86_64	Mon 13 Jul 2020 17:42:03 NZST	Utilities for managing filesystem extended attributes
+libarchive	3.3.3	1.el8	x86_64	Mon 24 May 2021 15:52:30 NZST	A library for handling streaming archive formats
+bzip2	1.0.6	26.el8	x86_64	Mon 13 Jul 2020 17:42:03 NZST	A file compression utility
+python3-cryptography	3.2.1	4.el8	x86_64	Mon 24 May 2021 15:52:30 NZST	PyCA's cryptography library
+libproxy	0.4.15	5.2.el8	x86_64	Mon 13 Jul 2020 17:42:03 NZST	A library handling all the details of proxy configuration
+librelp	1.2.16	1.el8	x86_64	Mon 13 Jul 2020 17:43:20 NZST	The Reliable Event Logging Protocol library
+npm	6.14.11	1.10.24.0.1.module+el8.3.0+10166+b07ac28e	x86_64	Mon 24 May 2021 15:52:33 NZST	Node.js Package Manager
+perl-Term-ANSIColor	4.06	396.el8	noarch	Mon 13 Jul 2020 17:49:13 NZST	Color screen output using ANSI escape sequences
+hwdata	0.314	8.8.el8	noarch	Mon 24 May 2021 15:52:35 NZST	Hardware identification and configuration data
+pinentry	1.1.0	2.el8	x86_64	Mon 13 Jul 2020 17:43:20 NZST	Collection of simple PIN or passphrase entry dialogs
+perl-threads-shared	1.58	2.el8	x86_64	Mon 13 Jul 2020 17:49:13 NZST	Perl extension for sharing data structures between threads
+libpcap	1.9.1	5.el8	x86_64	Mon 24 May 2021 15:52:36 NZST	A system-independent interface for user-level packet capture
+perl-File-Path	2.15	2.el8	noarch	Mon 13 Jul 2020 17:49:13 NZST	Create or remove directory trees
+python3-nftables	0.9.3	18.el8	x86_64	Mon 24 May 2021 15:52:36 NZST	Python module providing an interface to libnftables
+perl-Socket	2.027	3.el8	x86_64	Mon 13 Jul 2020 17:49:14 NZST	Networking constants and support functions
+clevis	15	1.el8	x86_64	Mon 24 May 2021 15:52:37 NZST	Automated decryption framework
+libdaemon	0.14	15.el8	x86_64	Mon 13 Jul 2020 17:42:06 NZST	Library for writing UNIX daemons
+volume_key-libs	0.3.11	5.el8	x86_64	Mon 13 Jul 2020 17:43:21 NZST	A library for manipulating storage encryption keys and passphrases
+perl-Digest	1.17	395.el8	noarch	Mon 13 Jul 2020 17:49:14 NZST	Modules that calculate message digests
+nagios-plugins-http	2.3.3	5.el8	x86_64	Mon 24 May 2021 15:52:37 NZST	Nagios Plugin - check_http
+perl-Pod-Escapes	1.07	395.el8	noarch	Mon 13 Jul 2020 17:49:15 NZST	Resolve POD escape sequences
+sudo	1.8.29	7.el8	x86_64	Mon 24 May 2021 15:52:37 NZST	Allows restricted root access for specified users
+pkgconf-pkg-config	1.4.2	1.el8	x86_64	Mon 13 Jul 2020 17:42:06 NZST	pkgconf shim to provide /usr/bin/pkg-config
+libsolv	0.7.16	2.el8	x86_64	Mon 24 May 2021 15:52:38 NZST	Package dependency solver
+perl-libnet	3.11	3.el8	noarch	Mon 13 Jul 2020 17:49:15 NZST	Perl clients for various network protocols
+adcli	0.8.2	9.el8	x86_64	Mon 24 May 2021 15:52:38 NZST	Active Directory enrollment
+libvarlink	18	3.el8	x86_64	Mon 13 Jul 2020 17:42:07 NZST	Varlink C Library
+perl-Pod-Simple	3.35	395.el8	noarch	Mon 13 Jul 2020 17:49:15 NZST	Framework for parsing POD documentation
+bind-export-libs	9.11.26	4.el8_4	x86_64	Mon 24 May 2021 15:52:38 NZST	ISC libs for DHCP application
+sscg	2.3.3	14.el8	x86_64	Mon 13 Jul 2020 17:43:22 NZST	Simple SSL certificate generator
+perl-Pod-Usage	1.69	395.el8	noarch	Mon 13 Jul 2020 17:49:15 NZST	Print a usage message from embedded POD documentation
+nagios-plugins-dummy	2.3.3	5.el8	x86_64	Mon 24 May 2021 15:52:38 NZST	Nagios Plugin - check_dummy
+nagios-plugins-ide_smart	2.3.3	5.el8	x86_64	Mon 24 May 2021 15:52:38 NZST	Nagios Plugin - check_ide_smart
+libfastjson	0.99.8	2.el8	x86_64	Mon 13 Jul 2020 17:42:09 NZST	A JSON implementation in C
+python3-ethtool	0.14	3.el8	x86_64	Mon 13 Jul 2020 17:43:22 NZST	Python module to interface with ethtool
+perl-PerlIO-utf8_strict	0.007	5.el8	x86_64	Mon 13 Jul 2020 17:49:16 NZST	Fast and correct UTF-8 I/O
+nagios-plugins-mrtgtraf	2.3.3	5.el8	x86_64	Mon 24 May 2021 15:52:38 NZST	Nagios Plugin - check_mrtgtraf
+nagios-plugins-nwstat	2.3.3	5.el8	x86_64	Mon 24 May 2021 15:52:38 NZST	Nagios Plugin - check_nwstat
+nagios-plugins-real	2.3.3	5.el8	x86_64	Mon 24 May 2021 15:52:38 NZST	Nagios Plugin - check_real
+nagios-plugins-ups	2.3.3	5.el8	x86_64	Mon 24 May 2021 15:52:38 NZST	Nagios Plugin - check_ups
+python3-lxml	4.2.3	2.el8	x86_64	Mon 24 May 2021 15:52:39 NZST	XML processing library combining libxml2/libxslt with the ElementTree API
+python3-hwdata	2.3.6	3.el8	noarch	Mon 13 Jul 2020 17:43:25 NZST	Python bindings to hwdata package
+libesmtp	1.0.6	18.el8	x86_64	Mon 13 Jul 2020 17:49:17 NZST	SMTP client library
+python3-pexpect	4.3.1	3.el8	noarch	Mon 24 May 2021 15:52:39 NZST	Unicode-aware Pure Python Expect-like module
+python3-dnf-plugin-spacewalk	2.8.5	11.module+el8.1.0+3455+3ddf2832	noarch	Mon 13 Jul 2020 17:43:25 NZST	DNF plugin for Spacewalk
+python3-linux-procfs	0.6.3	1.el8	noarch	Mon 24 May 2021 15:52:40 NZST	Linux /proc abstraction classes
+NessusAgent	8.2.0	es8	x86_64	Fri 20 Nov 2020 17:13:30 NZDT	Nessus Agent, supported by Tenable
+python3-pyasn1	0.3.7	6.el8	noarch	Mon 13 Jul 2020 17:49:36 NZST	ASN.1 tools for Python 3
+nagios-plugins-dig	2.3.3	5.el8	x86_64	Mon 24 May 2021 15:52:40 NZST	Nagios Plugin - check_dig
+python3-babel	2.5.1	5.el8	noarch	Fri 14 Aug 2020 10:04:54 NZST	Library for internationalizing Python applications
+apr-util	1.6.1	6.el8	x86_64	Tue 08 Dec 2020 12:42:40 NZDT	Apache Portable Runtime Utility library
+perl-TermReadKey	2.37	7.el8	x86_64	Mon 13 Jul 2020 17:49:37 NZST	A perl module for simple terminal control
+mokutil	0.3.0	11.el8	x86_64	Mon 24 May 2021 15:52:40 NZST	Tool to manage UEFI Secure Boot MoK Keys
+libsodium	1.0.18	2.el8	x86_64	Fri 14 Aug 2020 10:04:54 NZST	The Sodium crypto library
+httpd-tools	2.4.37	39.module+el8.4.0+9658+b87b2deb	x86_64	Mon 24 May 2021 15:52:40 NZST	Tools for use with the Apache HTTP Server
+whois-nls	5.5.1	2.el8	noarch	Fri 14 Aug 2020 14:53:23 NZST	Gettext catalogs for whois tools
+nss-softokn	3.53.1	17.el8_3	x86_64	Mon 24 May 2021 15:52:41 NZST	Network Security Services Softoken Module
+python3-qpid-proton	0.34.0	1.el8	x86_64	Mon 24 May 2021 15:57:00 NZST	Python language bindings for the Qpid Proton messaging framework
+python3-pyOpenSSL	19.0.0	1.el8	noarch	Mon 24 May 2021 15:57:21 NZST	Python 3 wrapper module around the OpenSSL library
+auter	1.0.0	2.el8	noarch	Mon 13 Jul 2020 17:49:42 NZST	Prepare and apply updates
+python3-urllib3	1.24.2	5.el8	noarch	Mon 24 May 2021 15:57:27 NZST	Python3 HTTP library with thread-safe connection pooling and file post
+bpftool	4.18.0	305.el8	x86_64	Mon 24 May 2021 15:57:28 NZST	Inspection and simple manipulation of eBPF programs and maps
+git-core	2.27.0	1.el8	x86_64	Thu 05 Nov 2020 04:56:47 NZDT	Core package of git with minimal functionality
+crontabs	1.11	17.20190603git.el8	noarch	Mon 24 May 2021 15:57:34 NZST	Root crontab files used to schedule the execution of programs
+abattis-cantarell-fonts	0.0.25	6.el8	noarch	Mon 24 May 2021 15:57:35 NZST	Cantarell, a Humanist sans-serif font family
+sssd-krb5-common	2.4.0	9.el8	x86_64	Mon 24 May 2021 15:54:04 NZST	SSSD helpers needed for Kerberos and GSSAPI authentication
+libwbclient	4.13.3	3.el8	x86_64	Mon 24 May 2021 15:54:04 NZST	The winbind client library
+libdnf	0.55.0	7.el8	x86_64	Mon 24 May 2021 15:54:05 NZST	Library providing simplified C and Python API to libsolv
+grub2-tools-extra	2.02	99.el8	x86_64	Mon 24 May 2021 15:54:05 NZST	Support tools for GRUB.
+libsmbclient	4.13.3	3.el8	x86_64	Mon 24 May 2021 15:54:06 NZST	The SMB client library
+libreport-filesystem	2.9.5	15.el8	x86_64	Thu 05 Nov 2020 04:55:36 NZDT	Filesystem layout for libreport
+NetworkManager-libnm	1.30.0	7.el8	x86_64	Mon 24 May 2021 15:54:06 NZST	Libraries for adding NetworkManager support to applications.
+perl-LWP-MediaTypes	6.02	15.module+el8.3.0+6498+9eecfe51	noarch	Thu 05 Nov 2020 04:55:36 NZDT	Guess media type for a file or a URL
+rpcbind	1.2.5	8.el8	x86_64	Mon 24 May 2021 15:54:08 NZST	Universal Addresses to RPC Program Number Mapper
+dracut	049	135.git20210121.el8	x86_64	Mon 24 May 2021 15:54:09 NZST	Initramfs generator using udev
+NetworkManager-team	1.30.0	7.el8	x86_64	Mon 24 May 2021 15:54:10 NZST	Team device plugin for NetworkManager
+setup	2.12.2	6.el8	noarch	Thu 05 Nov 2020 04:55:51 NZDT	A set of system configuration and setup files
+perl-IO-Socket-SSL	2.066	4.module+el8.3.0+6446+594cad75	noarch	Thu 05 Nov 2020 04:58:26 NZDT	Perl library for transparent SSL
+device-mapper-event	1.02.175	5.el8	x86_64	Mon 24 May 2021 15:54:10 NZST	Device-mapper event daemon
+nagios-plugins-ping	2.3.3	5.el8	x86_64	Mon 24 May 2021 15:54:11 NZST	Nagios Plugin - check_ping
+libblockdev	2.24	5.el8	x86_64	Mon 24 May 2021 15:54:11 NZST	A library for low-level manipulation with block devices
+libblockdev-crypto	2.24	5.el8	x86_64	Mon 24 May 2021 15:54:11 NZST	The crypto plugin for the libblockdev library
+libtdb	1.4.3	1.el8	x86_64	Thu 05 Nov 2020 04:55:56 NZDT	The tdb library
+libmbim	1.20.2	1.el8	x86_64	Mon 24 May 2021 15:54:11 NZST	Support library for the Mobile Broadband Interface Model protocol
+libipa_hbac	2.4.0	9.el8	x86_64	Mon 24 May 2021 15:54:11 NZST	FreeIPA HBAC Evaluator library
+libffi	3.1	22.el8	x86_64	Thu 05 Nov 2020 04:55:56 NZDT	A portable foreign function interface library
+python3-setools	4.3.0	2.el8	x86_64	Thu 05 Nov 2020 04:58:30 NZDT	Policy analysis tools for SELinux
+openscap-scanner	1.3.4	5.el8	x86_64	Mon 24 May 2021 15:54:13 NZST	OpenSCAP Scanner Tool (oscap)
+libudisks2	2.9.0	6.el8	x86_64	Mon 24 May 2021 15:54:13 NZST	Dynamic library to access the udisksd daemon
+perl-Try-Tiny	0.30	7.module+el8.3.0+6498+9eecfe51	noarch	Thu 05 Nov 2020 04:58:30 NZDT	Minimal try/catch with proper localization of $@
+oddjob-mkhomedir	0.34.7	1.el8	x86_64	Mon 24 May 2021 15:54:13 NZST	An oddjob helper which creates and populates home directories
+lz4-libs	1.8.3	2.el8	x86_64	Thu 05 Nov 2020 04:55:58 NZDT	Libaries for lz4
+vim-filesystem	8.0.1763	15.el8	noarch	Thu 05 Nov 2020 04:58:31 NZDT	VIM filesystem layout
+postfix	3.5.8	1.el8	x86_64	Mon 24 May 2021 15:54:14 NZST	Postfix Mail Transport Agent
+libss	1.45.6	1.el8	x86_64	Thu 05 Nov 2020 04:55:58 NZDT	Command line interface parsing library
+perl-HTTP-Message	6.18	1.module+el8.3.0+6498+9eecfe51	noarch	Thu 05 Nov 2020 04:58:35 NZDT	HTTP style message
+authselect-libs	1.2.2	2.el8	x86_64	Mon 24 May 2021 15:54:14 NZST	Utility library used by the authselect tool
+pcre2	10.32	2.el8	x86_64	Thu 05 Nov 2020 04:55:58 NZDT	Perl-compatible regular expression library
+perl-File-Listing	6.04	17.module+el8.3.0+6498+9eecfe51	noarch	Thu 05 Nov 2020 04:58:35 NZDT	Parse directory listing
+fprintd-pam	1.90.9	2.el8	x86_64	Mon 24 May 2021 15:54:15 NZST	PAM module for fingerprint authentication
+python3-unbound	1.7.3	15.el8	x86_64	Mon 24 May 2021 15:54:15 NZST	Python 3 modules and extensions for unbound
+snappy	1.1.8	3.el8	x86_64	Thu 05 Nov 2020 04:56:00 NZDT	Fast compression and decompression library
+perl-NTLM	1.09	17.module+el8.3.0+6498+9eecfe51	noarch	Thu 05 Nov 2020 04:58:41 NZDT	NTLM Perl module
+python3-tracer	0.7.5	2.el8	noarch	Mon 24 May 2021 15:54:15 NZST	Common files for tracer
+perl-libwww-perl	6.34	1.module+el8.3.0+6498+9eecfe51	noarch	Thu 05 Nov 2020 04:58:41 NZDT	A Perl interface to the World-Wide Web
+clevis-luks	15	1.el8	x86_64	Mon 24 May 2021 15:54:15 NZST	LUKS integration for clevis
+udisks2-lvm2	2.9.0	6.el8	x86_64	Mon 24 May 2021 15:54:17 NZST	Module for LVM2
+dejavu-fonts-common	2.35	7.el8	noarch	Mon 24 May 2021 15:54:17 NZST	Common files for the Dejavu font set
+quota	4.04	12.el8	x86_64	Mon 24 May 2021 15:54:17 NZST	System administration tools for monitoring users' disk usage
+cyrus-sasl-lib	2.1.27	5.el8	x86_64	Thu 05 Nov 2020 04:56:04 NZDT	Shared libraries needed by applications which use Cyrus SASL
+python3-dnf-plugins-core	4.0.18	4.el8	noarch	Mon 24 May 2021 15:54:17 NZST	Core Plugins for DNF
+subscription-manager-rhsm-certificates	1.28.13	2.el8	x86_64	Mon 24 May 2021 15:54:17 NZST	Certificates required to communicate with a Red Hat Unified Entitlement Platform
+podman-catatonit	3.0.1	6.module+el8.4.0+10607+f4da7515	x86_64	Mon 24 May 2021 15:54:18 NZST	A signal-forwarding process manager for containers
+dracut-network	049	135.git20210121.el8	x86_64	Mon 24 May 2021 15:54:20 NZST	dracut modules to build a dracut initramfs with network support
+cockpit-storaged	238.2	1.el8	noarch	Mon 24 May 2021 15:54:20 NZST	Cockpit user interface for storage, using udisks
+kmod-kvdo	6.2.4.26	77.el8	x86_64	Mon 24 May 2021 15:54:44 NZST	Kernel Modules for Virtual Data Optimizer
+firewalld-filesystem	0.8.2	6.el8	noarch	Mon 24 May 2021 15:54:44 NZST	Firewalld directory layout and rpm macros
+snapd	2.50	1.el8	x86_64	Mon 24 May 2021 15:54:47 NZST	A transactional software package manager
+buildah	1.19.7	1.module+el8.4.0+10607+f4da7515	x86_64	Mon 24 May 2021 15:54:48 NZST	A command line tool used for creating OCI Images
+cyrus-sasl-plain	2.1.27	5.el8	x86_64	Thu 05 Nov 2020 04:59:21 NZDT	PLAIN and LOGIN authentication support for Cyrus SASL
+nfs-utils	2.3.3	41.el8	x86_64	Mon 24 May 2021 15:54:48 NZST	NFS utilities and supporting clients and daemons for the kernel NFS server
+hyperv-daemons	0	0.30.20180415git.el8	x86_64	Mon 24 May 2021 15:54:48 NZST	Hyper-V daemons suite
+oniguruma	6.8.2	2.el8	x86_64	Thu 05 Nov 2020 04:59:22 NZDT	Regular expressions library
+grub2-pc	2.02	99.el8	x86_64	Mon 24 May 2021 15:54:51 NZST	Bootloader with support for Linux, Multiboot, and more
+libmodulemd1	1.8.16	0.2.9.4.2	x86_64	Thu 05 Nov 2020 04:59:22 NZDT	Compatibility package for libmodulemd 1.x
+rsyslog-gnutls	8.1911.0	7.el8	x86_64	Mon 24 May 2021 15:54:51 NZST	TLS protocol support for rsyslog
+irqbalance	1.4.0	6.el8	x86_64	Mon 24 May 2021 15:54:51 NZST	IRQ balancing daemon
+libmodulemd	2.9.4	2.el8	x86_64	Thu 05 Nov 2020 04:56:23 NZDT	Module metadata manipulation library
+tuned	2.15.0	2.el8	noarch	Mon 24 May 2021 15:54:52 NZST	A dynamic adaptive system tuning daemon
+openssh-server	8.0p1	6.el8_4.2	x86_64	Mon 24 May 2021 15:55:00 NZST	An open source SSH server daemon
+grub2-tools-efi	2.02	99.el8	x86_64	Mon 24 May 2021 15:55:01 NZST	Support tools for GRUB.
+python3-dns	1.15.0	10.el8	noarch	Fri 21 Aug 2020 00:44:21 NZST	DNS toolkit for Python 3
+nss	3.53.1	17.el8_3	x86_64	Mon 24 May 2021 15:52:41 NZST	Network Security Services
+ansible	2.9.21	1.el8	noarch	Mon 24 May 2021 15:57:21 NZST	SSH-based configuration management, deployment, and task execution system
+mailx	12.5	29.el8	x86_64	Mon 13 Jul 2020 17:49:42 NZST	Enhanced implementation of the mailx command
+libfdisk	2.32.1	27.el8	x86_64	Mon 24 May 2021 15:52:43 NZST	Partitioning library for fdisk-like programs.
+perl-open	1.11	419.el8	noarch	Mon 24 May 2021 15:57:27 NZST	Perl pragma to set default PerlIO layers for input and output
+nagios-plugins-by_ssh	2.3.3	5.el8	x86_64	Mon 24 May 2021 15:53:20 NZST	Nagios Plugin - check_by_ssh
+gpm-libs	1.20.7	17.el8	x86_64	Mon 24 May 2021 15:57:34 NZST	Dynamic library for gpm
+kernel-modules	4.18.0	240.10.1.el8_3	x86_64	Wed 03 Feb 2021 11:04:05 NZDT	kernel modules to match the core kernel
+perl-Errno	1.28	419.el8	x86_64	Mon 24 May 2021 15:53:55 NZST	System errno constants
+pkgconf-m4	1.4.2	1.el8	noarch	Mon 13 Jul 2020 17:41:57 NZST	m4 macros for pkgconf
+kernel-headers	4.18.0	305.3.1.el8_4	x86_64	Wed 02 Jun 2021 14:49:22 NZST	Header files for the Linux kernel for use by glibc
+libcomps	0.1.11	5.el8	x86_64	Mon 24 May 2021 15:53:55 NZST	Comps XML file manipulation library
+libcom_err-devel	1.45.6	1.el8	x86_64	Wed 02 Jun 2021 14:49:26 NZST	Common error description library
+python3-gofer-proton	2.12.5	7.el8sat	noarch	Wed 03 Feb 2021 11:05:22 NZDT	Gofer Qpid proton messaging adapter python package
+fuse3	3.2.1	12.el8	x86_64	Mon 24 May 2021 15:53:56 NZST	File System in Userspace (FUSE) v3 utilitie
+info	6.5	6.el8	x86_64	Mon 13 Jul 2020 17:41:59 NZST	A stand-alone TTY-based reader for GNU texinfo documentation
+golang	1.15.7	1.module+el8.4.0+9580+3b0e6c24	x86_64	Wed 02 Jun 2021 14:49:31 NZST	The Go Programming Language
+polkit-pkla-compat	0.1	12.el8	x86_64	Mon 13 Jul 2020 17:42:29 NZST	Rules for polkit to add compatibility with pklocalauthority
+mysql-libs	8.0.21	1.module+el8.2.0+7855+47abd494	x86_64	Thu 17 Sep 2020 04:47:01 NZST	The shared libraries required for MySQL clients
+libsss_autofs	2.4.0	9.el8	x86_64	Mon 24 May 2021 15:53:56 NZST	A library to allow communication between Autofs and SSSD
+readline	7.0	10.el8	x86_64	Mon 13 Jul 2020 17:41:59 NZST	A library for editing typed command lines
+efi-srpm-macros	3	3.el8	noarch	Wed 09 Jun 2021 13:47:36 NZST	Common SRPM Macros for building EFI-related packages
+ruby-libs	2.7.1	133.module+el8.3.0+7192+4e3a532a	x86_64	Wed 10 Feb 2021 14:52:09 NZDT	Libraries necessary to run Ruby
+tracer-common	0.7.5	2.el8	noarch	Mon 24 May 2021 15:53:59 NZST	Common files for tracer
+jansson	2.11	3.el8	x86_64	Mon 13 Jul 2020 17:41:59 NZST	C library for encoding, decoding and manipulating JSON data
+guile	2.0.14	7.el8	x86_64	Wed 09 Jun 2021 13:47:38 NZST	A GNU implementation of Scheme for application extensibility
+rubygems	3.1.2	133.module+el8.3.0+7192+4e3a532a	noarch	Wed 10 Feb 2021 14:52:09 NZDT	The Ruby standard for packaging ruby libraries
+jq	1.5	12.el8	x86_64	Fri 09 Oct 2020 16:02:26 NZDT	Command-line JSON processor
+device-mapper-libs	1.02.175	5.el8	x86_64	Mon 24 May 2021 15:54:01 NZST	Device-mapper shared library
+mlocate	0.26	20.el8	x86_64	Mon 13 Jul 2020 17:43:35 NZST	An utility for finding files by name
+teamd	1.31	2.el8	x86_64	Thu 05 Nov 2020 04:58:16 NZDT	Team network device control daemon
+which	2.21	12.el8	x86_64	Mon 13 Jul 2020 17:41:59 NZST	Displays where a particular program in your path is located
+elfutils	0.182	3.el8	x86_64	Wed 09 Jun 2021 13:47:39 NZST	A collection of utilities and DSOs to handle ELF files and DWARF data
+dbus	1.12.8	12.el8_4.2	x86_64	Mon 24 May 2021 15:54:03 NZST	D-BUS message bus
+pango	1.42.4	6.el8	x86_64	Sat 20 Feb 2021 21:51:10 NZDT	System for layout and rendering of internationalized text
+samba-common	4.13.3	3.el8	noarch	Mon 24 May 2021 15:54:04 NZST	Files used by both Samba servers and clients
+kernel-modules	4.18.0	240.22.1.el8_3	x86_64	Thu 13 May 2021 21:39:37 NZST	kernel modules to match the core kernel
+systemd-udev	239	45.el8	x86_64	Mon 24 May 2021 15:54:05 NZST	Rule-based device node and kernel event manager
+biosdevname	0.7.3	2.el8	x86_64	Mon 13 Jul 2020 17:43:37 NZST	Udev helper for naming devices per BIOS names
+zlib	1.2.11	17.el8	x86_64	Mon 24 May 2021 15:52:22 NZST	The compression and decompression library
+python3-pyyaml	3.12	12.el8	x86_64	Mon 13 Jul 2020 17:42:37 NZST	YAML parser and emitter for Python
+python3-setuptools-wheel	39.2.0	6.el8	noarch	Thu 05 Nov 2020 04:55:36 NZDT	The setuptools wheel
+libstoragemgmt	1.8.7	1.el8	x86_64	Mon 24 May 2021 15:54:06 NZST	Storage array management library
+time	1.9	3.el8	x86_64	Mon 13 Jul 2020 17:43:37 NZST	A GNU utility for monitoring a program's use of system resources
+sqlite-libs	3.26.0	13.el8	x86_64	Mon 24 May 2021 15:52:23 NZST	Shared library for the sqlite3 embeddable SQL database engine.
+kbd-misc	2.0.4	10.el8	noarch	Thu 05 Nov 2020 04:55:38 NZDT	Data for kbd package
+iscsi-initiator-utils-iscsiuio	6.2.1.2	1.gita8fcb37.el8	x86_64	Mon 24 May 2021 15:54:09 NZST	Userspace configuration daemon required for some iSCSI hardware
+tree	1.7.0	15.el8	x86_64	Mon 13 Jul 2020 17:43:37 NZST	File system tree viewer
+libtool-ltdl	2.4.6	25.el8	x86_64	Mon 13 Jul 2020 17:42:01 NZST	Runtime libraries for GNU Libtool Dynamic Module Loader
+json-c	0.13.1	0.4.el8	x86_64	Mon 24 May 2021 15:52:23 NZST	JSON implementation in C
+samba-client	4.13.3	3.el8	x86_64	Mon 24 May 2021 15:54:10 NZST	Samba client programs
+perl-Net-HTTP	6.17	2.module+el8.3.0+6498+9eecfe51	noarch	Thu 05 Nov 2020 04:58:26 NZDT	Low-level HTTP connection (client)
+p11-kit	0.23.22	1.el8	x86_64	Mon 24 May 2021 15:52:24 NZST	Library for loading and sharing PKCS#11 modules
+libcap	2.26	4.el8	x86_64	Thu 05 Nov 2020 04:55:55 NZDT	Library for getting and setting POSIX.1e capabilities
+sssd-ldap	2.4.0	9.el8	x86_64	Mon 24 May 2021 15:54:11 NZST	The LDAP back end of the SSSD
+pciutils-libs	3.7.0	1.el8	x86_64	Mon 24 May 2021 15:52:24 NZST	Linux PCI library
+libblockdev-fs	2.24	5.el8	x86_64	Mon 24 May 2021 15:54:11 NZST	The FS plugin for the libblockdev library
+libpath_utils	0.2.1	39.el8	x86_64	Mon 13 Jul 2020 17:42:02 NZST	Filesystem Path Utilities
+userspace-rcu	0.10.1	4.el8	x86_64	Mon 24 May 2021 15:52:25 NZST	RCU (read-copy-update) implementation in user-space
+sssd-ipa	2.4.0	9.el8	x86_64	Mon 24 May 2021 15:54:11 NZST	The IPA back end of the SSSD
+perl-Text-ParseWords	3.30	395.el8	noarch	Mon 13 Jul 2020 17:49:13 NZST	Parse text into an array of tokens or array of arrays
+newt	0.52.20	11.el8	x86_64	Mon 13 Jul 2020 17:42:02 NZST	A library for text mode user interfaces
+platform-python	3.6.8	37.el8	x86_64	Mon 24 May 2021 15:52:26 NZST	Internal interpreter of the Python programming language
+libmaxminddb	1.2.0	10.el8	x86_64	Thu 05 Nov 2020 04:55:57 NZDT	C library for the MaxMind DB file format
+libfprint	1.90.7	1.el8	x86_64	Mon 24 May 2021 15:54:13 NZST	Toolkit for fingerprint scanner
+perl-Data-Dump	1.23	7.module+el8.3.0+6498+9eecfe51	noarch	Thu 05 Nov 2020 04:58:31 NZDT	Pretty printing of data structures
+libpwquality	1.4.4	3.el8	x86_64	Mon 24 May 2021 15:52:29 NZST	A library for password generation and password quality checking
+python3-slip	0.6.4	11.el8	noarch	Mon 13 Jul 2020 17:43:19 NZST	Convenience, extension and workaround code for Python 3.x
+device-mapper-persistent-data	0.8.5	4.el8	x86_64	Thu 05 Nov 2020 04:55:58 NZDT	Device-mapper Persistent Data Tools
+nagios-plugins-mailq	2.3.3	5.el8	x86_64	Mon 24 May 2021 15:54:14 NZST	Nagios Plugin - check_mailq
+perl-HTTP-Negotiate	6.01	19.module+el8.3.0+6498+9eecfe51	noarch	Thu 05 Nov 2020 04:58:35 NZDT	Choose a variant to serve
+python3-libselinux	2.9	5.el8	x86_64	Mon 24 May 2021 15:52:30 NZST	SELinux python 3 bindings for libselinux
+psmisc	23.1	5.el8	x86_64	Thu 05 Nov 2020 04:55:58 NZDT	Utilities for managing processes on your system
+hypervkvpd	0	0.30.20180415git.el8	x86_64	Mon 24 May 2021 15:54:15 NZST	Hyper-V key value pair (KVP) daemon
+libmodman	2.0.1	17.el8	x86_64	Mon 13 Jul 2020 17:42:03 NZST	A simple library for managing C++ modules (plug-ins)
+ima-evm-utils	1.3.2	12.el8	x86_64	Mon 24 May 2021 15:52:30 NZST	IMA/EVM support utilities
+e2fsprogs-libs	1.45.6	1.el8	x86_64	Thu 05 Nov 2020 04:56:00 NZDT	Ext2/3/4 file system specific shared libraries
+cockpit-packagekit	238.2	1.el8	noarch	Mon 24 May 2021 15:54:15 NZST	Cockpit user interface for packages
+vim-enhanced	8.0.1763	15.el8	x86_64	Thu 05 Nov 2020 04:58:41 NZDT	A version of the VIM editor which includes recent enhancements
+less	530	1.el8	x86_64	Mon 13 Jul 2020 17:42:04 NZST	A text file browser similar to more, but better
+perl-Convert-ASN1	0.27	17.el8	noarch	Thu 23 Jul 2020 02:52:17 NZST	ASN.1 encode/decode library
+libibverbs	32.0	4.el8	x86_64	Mon 24 May 2021 15:52:36 NZST	A library and drivers for direct userspace use of RDMA (InfiniBand/iWARP/RoCE) hardware
+udisks2-iscsi	2.9.0	6.el8	x86_64	Mon 24 May 2021 15:54:17 NZST	Module for iSCSI
+fuse3-libs	3.2.1	12.el8	x86_64	Mon 13 Jul 2020 17:42:06 NZST	File System in Userspace (FUSE) v3 libraries
+tpm2-tools	4.1.1	2.el8	x86_64	Mon 24 May 2021 15:52:36 NZST	A TPM2.0 testing tool build upon TPM2.0-TSS
+kbd-legacy	2.0.4	10.el8	noarch	Thu 05 Nov 2020 04:56:04 NZDT	Legacy data for kbd package
+dnf-data	4.4.2	11.el8	noarch	Mon 24 May 2021 15:54:17 NZST	Common data and configuration files for DNF
+perl-Time-Local	1.280	1.el8	noarch	Mon 13 Jul 2020 17:49:14 NZST	Efficiently compute time from local and GMT time
+wget	1.19.5	10.el8	x86_64	Thu 05 Nov 2020 04:58:45 NZDT	A utility for retrieving files using the HTTP or FTP protocols
+libpciaccess	0.14	1.el8	x86_64	Mon 13 Jul 2020 17:42:06 NZST	PCI access library
+perl-Text-Glob	0.11	4.el8	noarch	Thu 23 Jul 2020 02:52:18 NZST	Perl module to match globbing patterns against text
+nagios-plugins-tcp	2.3.3	5.el8	x86_64	Mon 24 May 2021 15:52:37 NZST	Nagios Plugin - check_tcp
+python3-subscription-manager-rhsm	1.28.13	2.el8	x86_64	Mon 24 May 2021 15:54:17 NZST	A Python library to communicate with a Red Hat Unified Entitlement Platform
+perl-Storable	3.11	3.el8	x86_64	Mon 13 Jul 2020 17:49:15 NZST	Persistence for Perl data structures
+nagios-plugins-mysql	2.3.3	5.el8	x86_64	Mon 24 May 2021 15:52:38 NZST	Nagios Plugin - check_mysql
+isns-utils-libs	0.99	1.el8	x86_64	Mon 13 Jul 2020 17:43:22 NZST	Shared library files for iSNS
+libkcapi-hmaccalc	1.2.0	2.el8	x86_64	Thu 05 Nov 2020 04:56:12 NZDT	Drop-in replacements for hmaccalc provided by the libkcapi package
+kexec-tools	2.0.20	46.el8	x86_64	Mon 24 May 2021 15:54:20 NZST	The kexec/kdump userspace component
+perl-Encode	2.97	3.el8	x86_64	Mon 13 Jul 2020 17:49:15 NZST	Character encodings in Perl
+sysstat	11.7.3	5.el8	x86_64	Thu 05 Nov 2020 04:58:51 NZDT	Collection of performance monitoring tools for Linux
+npth	1.5	4.el8	x86_64	Mon 13 Jul 2020 17:42:07 NZST	The New GNU Portable Threads library
+nagios-plugins-disk	2.3.3	5.el8	x86_64	Mon 24 May 2021 15:52:38 NZST	Nagios Plugin - check_disk
+xmlsec1-openssl	1.2.25	4.el8	x86_64	Mon 13 Jul 2020 17:43:22 NZST	OpenSSL crypto plugin for XML Security Library
+redhat-logos-httpd	84.4	1.el8	noarch	Mon 24 May 2021 15:54:44 NZST	Red Hat-related icons and pictures used by httpd
+libestr	0.1.10	1.el8	x86_64	Mon 13 Jul 2020 17:42:09 NZST	String handling essentials library
+nagios-plugins-mrtg	2.3.3	5.el8	x86_64	Mon 24 May 2021 15:52:38 NZST	Nagios Plugin - check_mrtg
+python3-inotify	0.9.6	13.el8	noarch	Mon 13 Jul 2020 17:43:22 NZST	Monitor filesystem events with Python under Linux
+kbd	2.0.4	10.el8	x86_64	Thu 05 Nov 2020 04:56:16 NZDT	Tools for configuring the console (keyboard, virtual terminals, etc.)
+cockpit	238.2	1.el8	x86_64	Mon 24 May 2021 15:54:47 NZST	Web Console for Linux servers
+perl-utf8-all	0.024	7.el8	noarch	Mon 13 Jul 2020 17:49:16 NZST	Turn on Unicode everywhere
+python3-setuptools	39.2.0	6.el8	noarch	Thu 05 Nov 2020 04:59:21 NZDT	Easily build and distribute Python 3 packages
+nagios-plugins-procs	2.3.3	5.el8	x86_64	Mon 24 May 2021 15:52:38 NZST	Nagios Plugin - check_procs
+redhat-release	8.4	0.6.el8	x86_64	Mon 24 May 2021 15:54:48 NZST	Red Hat Enterprise Linux release file
+iprutils	2.4.19	1.el8	x86_64	Thu 05 Nov 2020 04:59:22 NZDT	Utilities for the IBM Power Linux RAID adapters
+nspr	4.25.0	2.el8_2	x86_64	Thu 06 Aug 2020 05:17:18 NZST	Netscape Portable Runtime
+python3-perf	4.18.0	305.el8	x86_64	Mon 24 May 2021 15:52:39 NZST	Python bindings for apps which will manipulate perf events
+python3-requests	2.20.0	2.1.el8_1	noarch	Mon 13 Jul 2020 17:43:25 NZST	HTTP library, written in Python, for human beings
+dracut-config-rescue	049	135.git20210121.el8	x86_64	Mon 24 May 2021 15:54:51 NZST	dracut configuration to turn on rescue image generation
+lsof	4.93.2	1.el8	x86_64	Thu 05 Nov 2020 04:59:22 NZDT	A utility which lists open files on a Linux/UNIX system
+python3-sssdconfig	2.4.0	9.el8	noarch	Mon 24 May 2021 15:52:40 NZST	SSSD and IPA configuration file manipulation classes and functions
+dnf-plugin-spacewalk	2.8.5	11.module+el8.1.0+3455+3ddf2832	noarch	Mon 13 Jul 2020 17:43:25 NZST	DNF plugin for Spacewalk
+bolt	0.9.1	1.el8	x86_64	Mon 24 May 2021 15:54:51 NZST	Thunderbolt device manager
+daemon	0.6.4	1	x86_64	Wed 25 Nov 2020 10:39:22 NZDT	daemon - turns other processes into daemons
+cracklib-dicts	2.9.6	15.el8	x86_64	Mon 13 Jul 2020 17:42:20 NZST	The standard CrackLib dictionaries
+python3-jinja2	2.10.1	2.el8_0	noarch	Fri 14 Aug 2020 10:04:54 NZST	General purpose template engine for python3
+trousers-lib	0.3.15	1.el8	x86_64	Mon 24 May 2021 15:52:40 NZST	TrouSerS libtspi library
+insights-client	3.1.3	2.el8_4	noarch	Mon 24 May 2021 15:55:00 NZST	Uploads Insights information to Red Hat on a periodic basis
+whois	5.5.1	2.el8	x86_64	Fri 14 Aug 2020 14:53:23 NZST	Improved WHOIS client
+nss-softokn-freebl	3.53.1	17.el8_3	x86_64	Mon 24 May 2021 15:52:41 NZST	Freebl library for the Network Security Services
+libatasmart	0.19	14.el8	x86_64	Mon 13 Jul 2020 17:43:26 NZST	ATA S.M.A.R.T. Disk Health Monitoring Library
+avahi-libs	0.7	20.el8	x86_64	Mon 24 May 2021 15:52:43 NZST	Libraries for avahi run-time use
+openldap-clients	2.4.46	16.el8	x86_64	Mon 24 May 2021 15:57:26 NZST	LDAP client utilities
+cyrus-sasl-gssapi	2.1.27	5.el8	x86_64	Thu 05 Nov 2020 04:56:44 NZDT	GSSAPI authentication support for Cyrus SASL
+iftop	1.0	0.21.pre4.el8	x86_64	Mon 13 Jul 2020 17:50:02 NZST	Command line tool that displays bandwidth usage on an interface
+selinux-policy-targeted	3.14.3	67.el8	noarch	Mon 24 May 2021 15:53:02 NZST	SELinux targeted base policy
+ncpa	2.3.1	1.el8	x86_64	Mon 24 May 2021 15:57:32 NZST	A cross-platform active and passive monitoring agent
+perl-Git	2.27.0	1.el8	noarch	Thu 05 Nov 2020 04:56:49 NZDT	Perl interface to Git
+perl-macros	5.26.3	419.el8	x86_64	Mon 24 May 2021 15:53:54 NZST	Macros for rpmbuild
+libmpc	1.1.0	9.1.el8	x86_64	Wed 02 Jun 2021 14:48:59 NZST	C library for multiple precision complex arithmetic
+python3-pydbus	0.6.0	5.el8	noarch	Thu 05 Nov 2020 04:56:58 NZDT	Pythonic DBus library
+katello-host-tools-tracer	3.5.4	1.el8sat	noarch	Wed 03 Feb 2021 11:04:11 NZDT	Adds Tracer functionality to a client managed by katello-host-tools
+nagios-plugins-ssl_validity	2.3.3	5.el8	x86_64	Mon 24 May 2021 15:53:55 NZST	Nagios Plugin - check_ssl_validity
+libxcrypt-devel	4.1.1	4.el8	x86_64	Wed 02 Jun 2021 14:49:24 NZST	Development files for libxcrypt
+kernel-tools-libs	4.18.0	305.el8	x86_64	Mon 24 May 2021 15:53:55 NZST	Libraries for the kernel-tools
+libselinux-devel	2.9	5.el8	x86_64	Wed 02 Jun 2021 14:49:27 NZST	Header files and libraries used to build SELinux
+cpio	2.12	10.el8	x86_64	Mon 24 May 2021 15:53:56 NZST	A GNU archiving program
+make	4.2.1	10.el8	x86_64	Wed 09 Jun 2021 13:33:02 NZST	A GNU tool which simplifies the build process for users
+containernetworking-plugins	0.9.1	1.module+el8.4.0+10607+f4da7515	x86_64	Mon 24 May 2021 15:53:59 NZST	CNI network plugins
+qt5-srpm-macros	5.12.5	3.el8	noarch	Wed 09 Jun 2021 13:47:36 NZST	RPM macros for source Qt5 packages
+rubygem-bigdecimal	2.0.0	133.module+el8.3.0+7192+4e3a532a	x86_64	Wed 10 Feb 2021 14:52:09 NZDT	BigDecimal provides arbitrary-precision floating point decimal arithmetic
+gpg-pubkey	a3219f7b	5eb44ee6	(none)	Mon 05 Oct 2020 21:30:36 NZDT	gpg(HashiCorp Security (HashiCorp Package Signing) <security+packaging@hashicorp.com>)
+dbus-glib	0.110	2.el8	x86_64	Mon 13 Jul 2020 17:42:32 NZST	GLib bindings for D-Bus
+usbutils	010	3.el8	x86_64	Mon 13 Jul 2020 17:43:33 NZST	Linux USB utilities
+dbus-common	1.12.8	12.el8_4.2	noarch	Mon 24 May 2021 15:54:01 NZST	D-BUS message bus configuration
+audit-libs	3.0	0.17.20191104git1c2f876.el8	x86_64	Mon 13 Jul 2020 17:41:59 NZST	Dynamic library for libaudit
+ghc-srpm-macros	1.4.2	7.el8	noarch	Wed 09 Jun 2021 13:47:38 NZST	RPM macros for building Haskell source packages
+python3-dmidecode	3.12.2	15.el8	x86_64	Mon 13 Jul 2020 17:42:32 NZST	Python 3 module to access DMI data
+rng-tools	6.8	3.el8	x86_64	Mon 13 Jul 2020 17:43:35 NZST	Random number generator related utilities
+systemd-pam	239	45.el8	x86_64	Mon 24 May 2021 15:54:02 NZST	systemd PAM module
+libattr	2.4.48	3.el8	x86_64	Mon 13 Jul 2020 17:41:59 NZST	Dynamic library for extended attribute support
+rpmdevtools	8.10	8.el8	noarch	Wed 09 Jun 2021 13:47:39 NZST	RPM Development Tools
+gnupg2-smime	2.2.20	2.el8	x86_64	Thu 05 Nov 2020 04:58:16 NZDT	CMS encryption and signing tool and smart card support for GnuPG
+fribidi	1.0.4	8.el8	x86_64	Sat 20 Feb 2021 21:51:09 NZDT	Library implementing the Unicode Bidirectional Algorithm
+cockpit-bridge	238.2	1.el8	x86_64	Mon 24 May 2021 15:54:04 NZST	Cockpit bridge server-side component
+libassuan	2.5.1	3.el8	x86_64	Mon 13 Jul 2020 17:42:00 NZST	GnuPG IPC library
+nfdump	1.6.22	1.el8	x86_64	Sat 20 Feb 2021 21:51:10 NZDT	NetFlow collecting and processing tools
+samba-client-libs	4.13.3	3.el8	x86_64	Mon 24 May 2021 15:54:04 NZST	Samba client libraries
+libunistring	0.9.9	3.el8	x86_64	Mon 13 Jul 2020 17:42:00 NZST	GNU Unicode string library
+setroubleshoot-plugins	3.3.13	1.el8	noarch	Thu 05 Nov 2020 04:58:19 NZDT	Analysis plugins for use with setroubleshoot
+glibc-langpack-en	2.28	151.el8	x86_64	Mon 24 May 2021 15:52:20 NZST	Locale data for en
+python3-audit	3.0	0.17.20191104git1c2f876.el8	x86_64	Mon 13 Jul 2020 17:42:37 NZST	Python3 bindings for libaudit
+python3-hawkey	0.55.0	7.el8	x86_64	Mon 24 May 2021 15:54:06 NZST	Python 3 bindings for the hawkey library
+libxml2	2.9.7	9.el8	x86_64	Mon 24 May 2021 15:52:22 NZST	Library providing XML and HTML support
+nagios-repo	8	1.el8	noarch	Mon 13 Jul 2020 17:43:37 NZST	Nagios Repositories
+cockpit-ws	238.2	1.el8	x86_64	Mon 24 May 2021 15:54:07 NZST	Cockpit Web Service
+dbus-libs	1.12.8	12.el8_4.2	x86_64	Mon 24 May 2021 15:52:23 NZST	Libraries for accessing D-BUS
+libssh-config	0.9.4	2.el8	noarch	Thu 05 Nov 2020 04:55:51 NZDT	Configuration files for libssh
+man-pages	4.15	6.el8	x86_64	Mon 13 Jul 2020 17:43:40 NZST	Linux kernel and C library user-space interface documentation
+dracut-squash	049	135.git20210121.el8	x86_64	Mon 24 May 2021 15:54:10 NZST	dracut module to build an initramfs with most files in a squashfs image
+xmlsec1	1.2.25	4.el8	x86_64	Mon 13 Jul 2020 17:42:01 NZST	Library providing support for "XML Signature" and "XML Encryption" standards
+libsemanage	2.9	6.el8	x86_64	Mon 24 May 2021 15:52:23 NZST	SELinux binary policy manipulation library
+python36	3.6.8	2.module+el8.1.0+3334+5cb623d7	x86_64	Mon 13 Jul 2020 17:48:46 NZST	Interpreter of the Python programming language
+lvm2	2.03.11	5.el8	x86_64	Mon 24 May 2021 15:54:11 NZST	Userland logical volume management tools
+libmetalink	0.1.3	7.el8	x86_64	Mon 13 Jul 2020 17:42:01 NZST	Metalink library written in C
+procps-ng	3.3.15	6.el8	x86_64	Mon 24 May 2021 15:52:24 NZST	System and process monitoring utilities
+libtalloc	2.3.1	2.el8	x86_64	Thu 05 Nov 2020 04:55:55 NZDT	The talloc library
+libblockdev-loop	2.24	5.el8	x86_64	Mon 24 May 2021 15:54:11 NZST	The loop plugin for the libblockdev library
+fuse-libs	2.9.7	12.el8	x86_64	Mon 13 Jul 2020 17:42:01 NZST	File System in Userspace (FUSE) v2 libraries
+hyperv-daemons-license	0	0.30.20180415git.el8	noarch	Mon 24 May 2021 15:52:24 NZST	License of the Hyper-V daemons suite
+usermode	1.113	1.el8	x86_64	Mon 13 Jul 2020 17:42:40 NZST	Tools for certain user account management tasks
+perl-parent	0.237	1.el8	noarch	Mon 13 Jul 2020 17:49:12 NZST	Establish an ISA relationship with base classes at compile time
+ModemManager-glib	1.10.8	2.el8	x86_64	Mon 24 May 2021 15:54:11 NZST	Libraries for adding ModemManager support to applications that use glib.
+lzo	2.08	14.el8	x86_64	Mon 13 Jul 2020 17:42:02 NZST	Data compression library with very fast (de)compression
+python3-pip-wheel	9.0.3	19.el8	noarch	Mon 24 May 2021 15:52:25 NZST	The pip wheel
+usb_modeswitch-data	20191128	1.el8	noarch	Mon 13 Jul 2020 17:42:48 NZST	USB Modeswitch gets mobile broadband cards in operational mode
+libslirp	4.3.1	1.module+el8.4.0+10607+f4da7515	x86_64	Mon 24 May 2021 15:54:13 NZST	A general purpose TCP-IP emulator
+krb5-libs	1.18.2	8.el8	x86_64	Mon 24 May 2021 15:52:28 NZST	The non-admin shared libraries used by Kerberos 5
+libblockdev-mdraid	2.24	5.el8	x86_64	Mon 24 May 2021 15:54:13 NZST	The MD RAID plugin for the libblockdev library
+perl-TimeDate	2.30	15.module+el8.3.0+6498+9eecfe51	noarch	Thu 05 Nov 2020 04:58:35 NZDT	A Perl module for time and date manipulation
+openssl	1.1.1g	15.el8_3	x86_64	Mon 24 May 2021 15:52:29 NZST	Utilities from the general purpose cryptography library with TLS implementation
+python3-pyudev	0.21.0	7.el8	noarch	Mon 13 Jul 2020 17:43:19 NZST	A libudev binding
+authselect	1.2.2	2.el8	x86_64	Mon 24 May 2021 15:54:14 NZST	Configures authentication and identity sources from supported profiles
+python2-pip-wheel	9.0.3	18.module+el8.3.0+7707+eb4bba01	noarch	Thu 05 Nov 2020 04:58:35 NZDT	The pip wheel
+bind-libs-lite	9.11.26	4.el8_4	x86_64	Mon 24 May 2021 15:52:30 NZST	Libraries for working with the DNS protocol
+rpm-build-libs	4.14.3	13.el8	x86_64	Mon 24 May 2021 15:54:15 NZST	Libraries for building and signing RPM packages
+nodejs	10.24.0	1.module+el8.3.0+10166+b07ac28e	x86_64	Mon 24 May 2021 15:52:35 NZST	JavaScript runtime
+memstrack	0.1.11	1.el8	x86_64	Thu 05 Nov 2020 04:56:01 NZDT	A memory allocation tracer, like a hot spot analyzer for memory allocation
+perl-constant	1.33	396.el8	noarch	Mon 13 Jul 2020 17:49:13 NZST	Perl pragma to declare constants
+udisks2	2.9.0	6.el8	x86_64	Mon 24 May 2021 15:54:16 NZST	Disk Manager
+c-ares	1.13.0	5.el8	x86_64	Mon 13 Jul 2020 17:42:06 NZST	A library that performs asynchronous DNS operations
+iptables	1.8.4	17.el8	x86_64	Mon 24 May 2021 15:52:36 NZST	Tools for managing Linux kernel packet filtering capabilities
+perl-Compress-Raw-Bzip2	2.081	1.el8	x86_64	Thu 23 Jul 2020 02:52:17 NZST	Low-level interface to bzip2 compression library
+redhat-release-eula	8.4	0.6.el8	x86_64	Mon 24 May 2021 15:54:17 NZST	Red Hat Enterprise Linux EULA file
+sssd-nfs-idmap	2.4.0	9.el8	x86_64	Mon 24 May 2021 15:52:37 NZST	SSSD plug-in for NFSv4 rpc.idmapd
+platform-python-setuptools	39.2.0	6.el8	noarch	Thu 05 Nov 2020 04:56:07 NZDT	Easily build and distribute Python 3 packages
+dnf-plugins-core	4.0.18	4.el8	noarch	Mon 24 May 2021 15:54:17 NZST	Core Plugins for DNF
+libpkgconf	1.4.2	1.el8	x86_64	Mon 13 Jul 2020 17:42:06 NZST	Backend library for pkgconf
+rpm-libs	4.14.3	13.el8	x86_64	Mon 24 May 2021 15:52:38 NZST	Libraries for manipulating RPM packages
+fipscheck-lib	1.5.0	4.el8	x86_64	Mon 13 Jul 2020 17:43:21 NZST	Library files for fipscheck
+dhcp-common	4.3.6	44.el8	noarch	Mon 24 May 2021 15:54:19 NZST	Common files used by ISC dhcp client, server and relay agent
+libstemmer	0	10.585svn.el8	x86_64	Mon 13 Jul 2020 17:42:07 NZST	C stemming algorithm library
+nagios-plugins-pgsql	2.3.3	5.el8	x86_64	Mon 24 May 2021 15:52:38 NZST	Nagios Plugin - check_pgsql
+perl-Pod-Perldoc	3.28	396.el8	noarch	Mon 13 Jul 2020 17:49:15 NZST	Look up Perl documentation in Pod format
+kernel-core	4.18.0	305.el8	x86_64	Mon 24 May 2021 15:54:35 NZST	The Linux kernel
+net-tools	2.0	0.52.20160912git.el8	x86_64	Thu 05 Nov 2020 04:59:19 NZDT	Basic networking tools
+nagios-plugins-hpjd	2.3.3	5.el8	x86_64	Mon 24 May 2021 15:52:38 NZST	Nagios Plugin - check_hpjd
+libverto-libevent	0.3.0	5.el8	x86_64	Thu 30 Jul 2020 16:52:42 NZST	libevent module for libverto
+python3-rhnlib	2.8.6	8.module+el8.1.0+3455+3ddf2832	noarch	Mon 13 Jul 2020 17:43:22 NZST	Python libraries for the Spacewalk project
+perl-encoding	2.22	3.el8	x86_64	Mon 13 Jul 2020 17:49:16 NZST	Write your Perl script in non-ASCII or non-UTF-8
+vdo	6.2.4.14	14.el8	x86_64	Mon 24 May 2021 15:54:45 NZST	Management tools for Virtual Data Optimizer
+libnet	1.1.6	15.el8	x86_64	Mon 13 Jul 2020 17:42:09 NZST	C library for portable packet creation and injection
+tcpdump	4.9.3	1.el8	x86_64	Thu 05 Nov 2020 04:59:20 NZDT	A network traffic monitoring tool
+nagios-plugins-nt	2.3.3	5.el8	x86_64	Mon 24 May 2021 15:52:38 NZST	Nagios Plugin - check_nt
+yum-utils	4.0.18	4.el8	noarch	Mon 24 May 2021 15:54:48 NZST	Yum-utils CLI compatibility layer
+fuse-common	3.2.1	12.el8	x86_64	Mon 13 Jul 2020 17:42:19 NZST	Common files for File System in Userspace (FUSE) v2 and v3
+efivar	37	4.el8	x86_64	Thu 05 Nov 2020 04:59:21 NZDT	Tools to manage UEFI variables
+nagios-plugins-swap	2.3.3	5.el8	x86_64	Mon 24 May 2021 15:52:38 NZST	Nagios Plugin - check_swap
+scap-security-guide	0.1.54	5.el8	noarch	Mon 24 May 2021 15:54:51 NZST	Security guidance and baselines in SCAP formats
+python3-py3nvml	0.2.6	1.el8	noarch	Mon 24 May 2021 15:52:39 NZST	Python 3 Bindings for the NVIDIA Management Library
+python3-rhn-client-tools	2.8.16	13.module+el8.1.0+3455+3ddf2832	x86_64	Mon 13 Jul 2020 17:43:25 NZST	Support programs and libraries for Red Hat Satellite or Spacewalk
+rsyslog-relp	8.1911.0	7.el8	x86_64	Mon 24 May 2021 15:54:51 NZST	RELP protocol support for rsyslog
+man-pages-overrides	8.3.0.2	2.el8	noarch	Thu 05 Nov 2020 04:59:23 NZDT	Complementary and updated manual pages
+python3-bind	9.11.26	4.el8_4	noarch	Mon 24 May 2021 15:52:40 NZST	A module allowing rndc commands to be sent from Python programs
+python3-markupsafe	0.23	19.el8	x86_64	Fri 14 Aug 2020 10:04:52 NZST	Implements a XML/HTML/XHTML Markup safe string for Python 3
+rhn-setup	2.8.16	13.module+el8.1.0+3455+3ddf2832	x86_64	Mon 13 Jul 2020 17:43:25 NZST	Configure and register an RHN/Spacewalk client
+microcode_ctl	20210216	1.el8	x86_64	Mon 24 May 2021 15:54:53 NZST	CPU microcode updates for Intel x86 processors
+libtirpc	1.1.4	4.el8	x86_64	Mon 13 Jul 2020 17:42:20 NZST	Transport Independent RPC Library
+net-snmp-utils	5.8	20.el8	x86_64	Mon 24 May 2021 15:52:40 NZST	Network management utilities using SNMP, from the NET-SNMP project
+python3-paramiko	2.4.3	1.el8	noarch	Fri 14 Aug 2020 10:04:55 NZST	SSH2 protocol library for python
+luksmeta	9	4.el8	x86_64	Mon 13 Jul 2020 17:43:26 NZST	Utility for storing small metadata in the LUKSv1 header
+libX11	1.6.8	4.el8	x86_64	Mon 24 May 2021 15:55:01 NZST	Core X11 protocol client library

@@ -1,0 +1,46 @@
+hostname
+uname -n
+uname -s
+uname -r
+uname -v
+uname -m
+uname -p
+uname -i
+uname -o
+cat /etc/*release
+type hal-find-by-property >/dev/null 2>&1 && echo "found" || echo "not found"
+xl info
+cat /proc/meminfo
+cat /proc/cpuinfo
+prtdiag -v
+/usr/sbin/prtdiag -v
+/usr/sbin/eeprom | grep -i ChassisSerialNumber
+uname -X
+lshal | grep system.hardware.serial
+lspci -vm
+type hal-find-by-property >/dev/null 2>&1 && echo "found" || echo "not found"
+type lshw >/dev/null 2>&1 && echo "found" || echo "not found"
+echo "public" | sudo -S lshw -json -c multimedia
+/sbin/ifconfig -a
+/sbin/ifconfig -a | grep -o -E '([[:xdigit:]]{1,2}:){5}[[:xdigit:]]{1,2}'
+netstat -rn | awk '/(^default)|(^0.0.0.0)/ {print $2 " " $6 " " $8}'
+df -k
+type hal-find-by-property >/dev/null 2>&1 && echo "found" || echo "not found"
+type hal-find-by-property >/dev/null 2>&1 && echo "found" || echo "not found"
+type dpkg >/dev/null 2>&1 && echo "found" || echo "not found"
+type rpm >/dev/null 2>&1 && echo "found" || echo "not found"
+rpm -qa --qf "%{NAME}\n%{VERSION}\n%{RELEASE}\n%{ARCH}\n%{INSTALLTIME:date}\n%{SUMMARY}\n<LS_DELIM>\n"
+which dmidecode
+which sudo
+echo "public" | sudo -S /sbin/dmidecode -V
+echo "public" | sudo -S /sbin/dmidecode -t 0
+echo "public" | sudo -S /sbin/dmidecode -t 1
+echo "public" | sudo -S /sbin/dmidecode -t 2
+echo "public" | sudo -S /sbin/dmidecode -t 3
+echo "public" | sudo -S /sbin/dmidecode -t 4
+echo "public" | sudo -S /sbin/dmidecode -t 5
+echo "public" | sudo -S /sbin/dmidecode | awk '/^\t[^\t]/ { speeds = 0 }; /^\tSupported Memory Types:/ { speeds = 1 } /^\t\t/ && speeds'
+echo "public" | sudo -S /sbin/dmidecode | awk '/^\t[^\t]/ { speeds = 0 }; /^\tSupported Speeds:/ { speeds = 1 } /^\t\t/ && speeds'
+echo "public" | sudo -S /sbin/dmidecode -t 6
+echo "public" | sudo -S /sbin/dmidecode -t 17
+echo "public" | sudo -S /sbin/dmidecode -t 32

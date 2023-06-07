@@ -1,0 +1,1089 @@
+program is Running
+2021-05-27 20:59:51,457 [DEBUG] : Detected OS: Linux
+Console: Detected OS: Linux
+2021-05-27 20:59:51,652 [DEBUG] : Creating InternalCommunicationSender to URL https://lansweeper.example.org:9524/lsagent 
+2021-05-27 20:59:51,655 [DEBUG] : New AssetId created: 06f0a4c9-9272-4566-a188-f07e7e7b52a5.
+2021-05-27 20:59:51,682 [DEBUG] : Asset is enabled.
+2021-05-27 20:59:51,682 [DEBUG] : Retrieving configuration...
+2021-05-27 20:59:51,702 [DEBUG] : Updating local config
+2021-05-27 20:59:51,745 [DEBUG] : New agent key: 98c8ce95-dbb3-41a3-a9d9-4183be68a27c
+2021-05-27 20:59:51,745 [DEBUG] : Checking version.
+2021-05-27 20:59:51,745 [DEBUG] : Waiting for schedule...
+2021-05-27 20:59:51,746 [DEBUG] : Schedule triggered
+2021-05-27 20:59:51,746 [DEBUG] : Starting scan
+2021-05-27 20:59:51,746 [DEBUG] : Detected OS: Linux
+Console: Detected OS: Linux
+2021-05-27 20:59:51,746 [DEBUG] : Scanning computer...
+Start Linux system info scanning
+NetworkNodeHostname: node.example.org
+KernelName: Linux
+KernelRelease: 4.18.0-305.el8.x86_64
+KernelVersion: #1 SMP Thu Apr 29 08:54:30 EDT 2021
+MachineHardwareName: x86_64
+ProcessorType :x86_64
+HardwarePlatform: x86_64
+OperatingSystem: GNU/Linux
+release: NAME="Red Hat Enterprise Linux"
+VERSION="8.4 (Ootpa)"
+ID="rhel"
+ID_LIKE="fedora"
+VERSION_ID="8.4"
+PLATFORM_ID="platform:el8"
+PRETTY_NAME="Red Hat Enterprise Linux 8.4 (Ootpa)"
+ANSI_COLOR="0;31"
+CPE_NAME="cpe:/o:redhat:enterprise_linux:8.4:GA"
+HOME_URL="https://www.redhat.com/"
+DOCUMENTATION_URL="https://access.redhat.com/documentation/red_hat_enterprise_linux/8/"
+BUG_REPORT_URL="https://bugzilla.redhat.com/"
+
+REDHAT_BUGZILLA_PRODUCT="Red Hat Enterprise Linux 8"
+REDHAT_BUGZILLA_PRODUCT_VERSION=8.4
+REDHAT_SUPPORT_PRODUCT="Red Hat Enterprise Linux"
+REDHAT_SUPPORT_PRODUCT_VERSION="8.4"
+Red Hat Enterprise Linux release 8.4 (Ootpa)
+Red Hat Enterprise Linux release 8.4 (Ootpa)
+
+OSRelease: Red Hat Enterprise Linux 8.4 (Ootpa)
+Did not find Hal
+
+TotalMemory: 
+MemTotal:        4022908 kB
+MemFree:         1541492 kB
+MemAvailable:    3488756 kB
+Buffers:            9544 kB
+Cached:          1875748 kB
+SwapCached:            0 kB
+Active:           721080 kB
+Inactive:        1427804 kB
+Active(anon):        600 kB
+Inactive(anon):   268072 kB
+Active(file):     720480 kB
+Inactive(file):  1159732 kB
+Unevictable:       10756 kB
+Mlocked:           10756 kB
+SwapTotal:       2097148 kB
+SwapFree:        2097148 kB
+Dirty:               288 kB
+Writeback:             0 kB
+AnonPages:        274364 kB
+Mapped:           192520 kB
+Shmem:               716 kB
+KReclaimable:     126396 kB
+Slab:             194712 kB
+SReclaimable:     126396 kB
+SUnreclaim:        68316 kB
+KernelStack:        3848 kB
+PageTables:        11672 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     4108600 kB
+Committed_AS:     658704 kB
+VmallocTotal:   34359738367 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+Percpu:             2520 kB
+HardwareCorrupted:     0 kB
+AnonHugePages:         0 kB
+ShmemHugePages:        0 kB
+ShmemPmdMapped:        0 kB
+FileHugePages:         0 kB
+FilePmdMapped:         0 kB
+HugePages_Total:       0
+HugePages_Free:        0
+HugePages_Rsvd:        0
+HugePages_Surp:        0
+Hugepagesize:       2048 kB
+Hugetlb:               0 kB
+DirectMap4k:      134512 kB
+DirectMap2M:     4059136 kB
+DirectMap1G:     2097152 kB
+
+TotalMemory: 4022908 kB
+processor	: 0
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 63
+model name	: Intel(R) Xeon(R) CPU E5-2697 v3 @ 2.60GHz
+stepping	: 0
+microcode	: 0x43
+cpu MHz		: 2599.998
+cache size	: 35840 KB
+physical id	: 0
+siblings	: 1
+core id		: 0
+cpu cores	: 1
+apicid		: 0
+initial apicid	: 0
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 13
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ss syscall nx pdpe1gb rdtscp lm constant_tsc arch_perfmon nopl xtopology tsc_reliable nonstop_tsc cpuid pni pclmulqdq ssse3 fma cx16 pcid sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm abm cpuid_fault invpcid_single pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust bmi1 avx2 smep bmi2 invpcid xsaveopt arat md_clear flush_l1d arch_capabilities
+bugs		: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs itlb_multihit
+bogomips	: 5199.99
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 43 bits physical, 48 bits virtual
+power management:
+
+processor	: 1
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 63
+model name	: Intel(R) Xeon(R) CPU E5-2697 v3 @ 2.60GHz
+stepping	: 0
+microcode	: 0x43
+cpu MHz		: 2599.998
+cache size	: 35840 KB
+physical id	: 2
+siblings	: 1
+core id		: 0
+cpu cores	: 1
+apicid		: 2
+initial apicid	: 2
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 13
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ss syscall nx pdpe1gb rdtscp lm constant_tsc arch_perfmon nopl xtopology tsc_reliable nonstop_tsc cpuid pni pclmulqdq ssse3 fma cx16 pcid sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm abm cpuid_fault invpcid_single pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust bmi1 avx2 smep bmi2 invpcid xsaveopt arat md_clear flush_l1d arch_capabilities
+bugs		: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs itlb_multihit
+bogomips	: 5199.99
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 43 bits physical, 48 bits virtual
+power management:
+
+
+CpuName: Intel Xeon CPU E5-2697 v3 @ 2.60GHz
+TotalMemory: 4022908 kB
+CpuName: Intel Xeon CPU E5-2697 v3 @ 2.60GHz
+TotalMemory & CpuName were both filled in
+
+
+Model: 
+Serial: 
+
+Serial: 
+CpuCount: 2
+TotalMemory & CpuName were both filled in
+
+Serial: 
+Starting network scan
+parsing ifconfig BSD
+
+Scanning MAC address
+Mac1: 00:50:56:8a:ef:69
+
+df -k output: Filesystem              1K-blocks    Used Available Use% Mounted on
+devtmpfs                  1994360       0   1994360   0% /dev
+tmpfs                     2011452       0   2011452   0% /dev/shm
+tmpfs                     2011452     680   2010772   1% /run
+tmpfs                     2011452       0   2011452   0% /sys/fs/cgroup
+/dev/mapper/system-root   5023744 3179532   1844212  64% /
+tmpfs                     2011452      36   2011416   1% /tmp
+/dev/mapper/system-home   1038336   81840    956496   8% /home
+/dev/sda2                 1038336  226708    811628  22% /boot
+/dev/sda1                  613184    5892    607292   1% /boot/efi
+/dev/mapper/system-var   10475520  599376   9876144   6% /var
+/dev/mapper/system-tmp    2086912   47700   2039212   3% /var/tmp
+/dev/mapper/system-log    4184064  991612   3192452  24% /var/log
+tmpfs                      402288       0    402288   0% /run/user/89066
+
+processing line: devtmpfs                  1994360       0   1994360   0% /dev
+detected disk: devtmpfs
+processing line: tmpfs                     2011452       0   2011452   0% /dev/shm
+detected disk: tmpfs
+processing line: tmpfs                     2011452     680   2010772   1% /run
+detected disk: tmpfs
+processing line: tmpfs                     2011452       0   2011452   0% /sys/fs/cgroup
+detected disk: tmpfs
+processing line: /dev/mapper/system-root   5023744 3179532   1844212  64% /
+detected disk: /dev/mapper/system-root
+processing line: tmpfs                     2011452      36   2011416   1% /tmp
+detected disk: tmpfs
+processing line: /dev/mapper/system-home   1038336   81840    956496   8% /home
+detected disk: /dev/mapper/system-home
+processing line: /dev/sda2                 1038336  226708    811628  22% /boot
+detected disk: /dev/sda2
+processing line: /dev/sda1                  613184    5892    607292   1% /boot/efi
+detected disk: /dev/sda1
+processing line: /dev/mapper/system-var   10475520  599376   9876144   6% /var
+detected disk: /dev/mapper/system-var
+processing line: /dev/mapper/system-tmp    2086912   47700   2039212   3% /var/tmp
+detected disk: /dev/mapper/system-tmp
+processing line: /dev/mapper/system-log    4184064  991612   3192452  24% /var/log
+detected disk: /dev/mapper/system-log
+processing line: tmpfs                      402288       0    402288   0% /run/user/89066
+detected disk: tmpfs
+Dpkg check: not found
+Rpm check: found
+Running Rpm command.
+Found 863 parts after splitting
+Adding ima-evm-utils
+Adding device-mapper-multipath-libs
+Adding ncdu
+Adding dbus-daemon
+Adding sssd-krb5-common
+Adding python3-nftables
+Adding realmd
+Adding nss-softokn
+Adding kernel-core
+Adding libdrm
+Adding ncurses-libs
+Adding nagios-plugins-log
+Adding shared-mime-info
+Adding kpatch
+Adding nagios-plugins-mrtgtraf
+Adding perl-Encode-Locale
+Adding grub2-pc
+Adding pinfo
+Adding bzip2-libs
+Adding nagios-plugins-ldap
+Adding perl-Try-Tiny
+Adding rsyslog-relp
+Adding binutils
+Adding perl-HTTP-Negotiate
+Adding mcelog
+Adding libcollection
+Adding dhcp-libs
+Adding kbd-misc
+Adding python2-six
+Adding libacl
+Adding gofer
+Adding sssd-nfs-idmap
+Adding python3-iniparse
+Adding perl-open
+Adding python3-setools
+Adding python3-sssdconfig
+Adding libcap
+Adding lsscsi
+Adding bash-completion
+Adding libidn2
+Adding trousers-lib
+Adding libjose
+Adding openssh
+Adding dos2unix
+Adding gsettings-desktop-schemas
+Adding nagios-plugins-file_age
+Adding words
+Adding squashfs-tools
+Adding python3-cairo
+Adding libss
+Adding python3-future
+Adding libksba
+Adding bubblewrap
+Adding python3-beautifulsoup4
+Adding vim-enhanced
+Adding libedit
+Adding sssd-client
+Adding passwd
+Adding coreutils-common
+Adding perl-Scalar-List-Utils
+Adding rpm-plugin-selinux
+Adding usb_modeswitch
+Adding numactl-libs
+Adding libbytesize
+Adding nagios-plugins-mysql
+Adding libsoup
+Adding gnutls
+Adding samba-common
+Adding man-pages-overrides
+Adding systemd-udev
+Adding libappstream-glib
+Adding perl-threads
+Adding hyperv-daemons-license
+Adding checkpolicy
+Adding perl-Convert-ASN1
+Adding libstoragemgmt
+Adding dbus-common
+Adding iscsi-initiator-utils
+Adding perl-Data-Dumper
+Adding dhcp-common
+Adding pkgconf
+Adding dracut-squash
+Adding perl-HTTP-Tiny
+Adding bash
+Adding libsysfs
+Adding libblockdev-lvm
+Adding perl-Getopt-Long
+Adding elfutils-libelf
+Adding libxcb
+Adding libblockdev-fs
+Adding openldap
+Adding libxkbcommon
+Adding libslirp
+Adding liblockfile
+Adding libmount
+Adding fuse
+Adding libblockdev-mdraid
+Adding libseccomp
+Adding hypervkvpd
+Adding python3-netifaces
+Adding fping
+Adding iproute
+Adding dnf
+Adding python3-rhn-setup
+Adding file
+Adding libnsl2
+Adding python3-tracer
+Adding libluksmeta
+Adding python3-libxml2
+Adding fwupd
+Adding nettle
+Adding pwgen
+Adding cockpit-storaged
+Adding fontpackages-filesystem
+Adding libibverbs
+Adding sssd-krb5
+Adding python3-magic
+Adding mysql-common
+Adding containernetworking-plugins
+Adding publicsuffix-list-dafsa
+Adding nagios-plugins-ssh
+Adding gettext
+Adding cockpit
+Adding nagios-plugins-http
+Adding rhnlib
+Adding vdo
+Adding libxcrypt
+Adding nagios-plugins-load
+Adding libreport-filesystem
+Adding chrony
+Adding nagios-plugins-hpjd
+Adding wireguard-tools
+Adding libkadm5
+Adding gpg-pubkey
+Adding perl-WWW-RobotRules
+Adding libuser
+Adding util-linux-user
+Adding libdb-utils
+Adding libssh-config
+Adding nmap-ncat
+Adding python3-urllib3
+Adding lua-libs
+Adding perl-IO-Socket-SSL
+Adding python3-xmltodict
+Adding katello-agent
+Adding libgomp
+Adding python3-bind
+Adding iptstate
+Adding abattis-cantarell-fonts
+Adding findutils
+Adding net-snmp-utils
+Adding ed
+Adding perl-macros
+Adding symlinks
+Adding nagios-plugins-wave
+Adding lz4-libs
+Adding libnftnl
+Adding kernel-tools-libs
+Adding libpsl
+Adding jose
+Adding katello-host-tools
+Adding cpio
+Adding curl
+Adding oniguruma
+Adding libgusb
+Adding slang
+Adding python3-policycoreutils
+Adding ipcalc
+Adding cryptsetup-libs
+Adding kbd-legacy
+Adding python3-slip-dbus
+Adding acl
+Adding trousers
+Adding libconfig
+Adding libXext
+Adding libwbclient
+Adding libkcapi-hmaccalc
+Adding glib-networking
+Adding gpg-pubkey
+Adding grub2-tools-extra
+Adding perl-PathTools
+Adding dosfstools
+Adding tracer-common
+Adding NetworkManager-libnm
+Adding kbd
+Adding perl-IO-Socket-IP
+Adding quota-nls
+Adding kernel-core
+Adding desktop-file-utils
+Adding perl-File-Temp
+Adding glibc-langpack-en
+Adding samba-client
+Adding perl-URI
+Adding ncurses
+Adding perl-libs
+Adding libblockdev
+Adding libmodulemd
+Adding libXrender
+Adding platform-python-pip
+Adding libqmi
+Adding nspr
+Adding perl-Import-Into
+Adding kmod
+Adding libfprint
+Adding json-c
+Adding postfix
+Adding python3-schedutils
+Adding nagios-plugins
+Adding python3-unbound
+Adding git-core-doc
+Adding python3-rhn-check
+Adding cracklib
+Adding python3-libselinux
+Adding dnf-plugins-core
+Adding openssl-pkcs11
+Adding p11-kit-trust
+Adding cockpit-system
+Adding python3-syspurpose
+Adding gettext-libs
+Adding libselinux-utils
+Adding geolite2-city
+Adding dmidecode
+Adding rdma-core
+Adding xkeyboard-config
+Adding iptables
+Adding iptables-ebtables
+Adding runc
+Adding nss-sysinit
+Adding nagios-plugins-nt
+Adding kernel
+Adding nagios-plugins-procs
+Adding nagios-plugins-ups
+Adding python3-six
+Adding nagios-plugins-oracle
+Adding json-glib
+Adding python3-setuptools-wheel
+Adding nagios-plugins-dhcp
+Adding libgudev
+Adding libgpg-error
+Adding nagios-plugins-tcp
+Adding python3-decorator
+Adding perl-IO-HTML
+Adding nagios-plugins-fping
+Adding grep
+Adding perl-HTTP-Date
+Adding adcli
+Adding python3-dbus
+Adding libcap-ng
+Adding perl-File-Listing
+Adding gpg-pubkey
+Adding nagios-plugins-pgsql
+Adding libref_array
+Adding perl-NTLM
+Adding psacct
+Adding sudo
+Adding keyutils-libs
+Adding python2-libs
+Adding python3-perf
+Adding cronie
+Adding filesystem
+Adding elrepo-release
+Adding man-db
+Adding python3-pexpect
+Adding libnl3
+Adding python3-ply
+Adding libtalloc
+Adding sg3_utils
+Adding nagios-plugins-dns
+Adding libevent
+Adding libaio
+Adding sed
+Adding nano
+Adding net-snmp-libs
+Adding python3-idna
+Adding libpng
+Adding chkconfig
+Adding bc
+Adding libfdisk
+Adding python3-newt
+Adding expat
+Adding hostname
+Adding nagios-plugins-by_ssh
+Adding fontconfig
+Adding mtr
+Adding perl-Errno
+Adding libtasn1
+Adding libffi
+Adding nagios-plugins-breeze
+Adding pixman
+Adding mailcap
+Adding python3-libcomps
+Adding libnl3-cli
+Adding redhat-logos
+Adding python3-pycparser
+Adding xz
+Adding python3-html5lib
+Adding fuse3
+Adding diffutils
+Adding python3-cssselect
+Adding libldb
+Adding audit
+Adding katello-host-tools-tracer
+Adding libsss_autofs
+Adding libnetfilter_conntrack
+Adding perl-Carp
+Adding libcurl
+Adding libyaml
+Adding policycoreutils
+Adding sg3_utils-libs
+Adding selinux-policy-targeted
+Adding rpm-plugin-systemd-inhibit
+Adding gdbm
+Adding device-mapper-libs
+Adding ipset
+Adding elfutils-libs
+Adding timedatex
+Adding groff-base
+Adding dbus
+Adding cockpit-bridge
+Adding device-mapper-event-libs
+Adding mozjs60
+Adding librhsm
+Adding gpg-pubkey
+Adding pigz
+Adding grub2-tools-minimal
+Adding libsecret
+Adding libgcc
+Adding perl-Unicode-Normalize
+Adding libsmbclient
+Adding efi-filesystem
+Adding perl-Text-Tabs+Wrap
+Adding python3-libstoragemgmt
+Adding python2-setuptools-wheel
+Adding hardlink
+Adding perl-MIME-Base64
+Adding initscripts
+Adding rhsm-icons
+Adding perl-Digest-MD5
+Adding dracut
+Adding dnf-data
+Adding libpipeline
+Adding perl-Term-Cap
+Adding kmod-kvdo
+Adding xdg-utils
+Adding firewalld-filesystem
+Adding libsigsegv
+Adding perl-Filter
+Adding NetworkManager-team
+Adding fipscheck
+Adding glibc-common
+Adding lvm2-libs
+Adding zlib
+Adding libverto
+Adding perl-podlators
+Adding python3-librepo
+Adding libuuid
+Adding libblockdev-swap
+Adding python3-asn1crypto
+Adding openssl-libs
+Adding libmbim
+Adding python3-chardet
+Adding platform-python
+Adding libmspack
+Adding perl-Module-Runtime
+Adding libdb
+Adding gpgme
+Adding dbus-libs
+Adding emacs-filesystem
+Adding python3-pysocks
+Adding grub2-common
+Adding libsemanage
+Adding esmtp
+Adding rhn-client-tools
+Adding nagios-plugins-perl
+Adding rhn-check
+Adding p11-kit
+Adding python3-pyasn1-modules
+Adding python3-systemd
+Adding libarchive
+Adding perl-Error
+Adding pciutils-libs
+Adding libicu
+Adding dbus-tools
+Adding udisks2-lvm2
+Adding colordiff
+Adding tpm2-tools
+Adding libsss_sudo
+Adding sssd-ipa
+Adding sssd-proxy
+Adding teamd
+Adding authselect-compat
+Adding gnupg2-smime
+Adding podman-catatonit
+Adding cockpit-podman
+Adding shim-x64
+Adding yum
+Adding setroubleshoot-plugins
+Adding kernel
+Adding dracut-config-rescue
+Adding rhnsd
+Adding rsyslog-gnutls
+Adding libnghttp2
+Adding bolt
+Adding e2fsprogs
+Adding microcode_ctl
+Adding insights-client
+Adding python3-qpid-proton
+Adding ledmon
+Adding python3-pip
+Adding perl-Net-HTTP
+Adding ncpa
+Adding htop
+Adding libX11
+Adding NetworkManager-config-server
+Adding setools-console
+Adding pcre2
+Adding e2fsprogs-libs
+Adding memstrack
+Adding net-tools
+Adding vim-minimal
+Adding perl-HTML-Parser
+Adding platform-python-setuptools
+Adding iprutils
+Adding lsof
+Adding libXau
+Adding libkcapi
+Adding perl-Digest-SHA
+Adding libipa_hbac
+Adding libudisks2
+Adding oddjob-mkhomedir
+Adding nagios-plugins-rpc
+Adding nagios-plugins-sensors
+Adding unbound-libs
+Adding git-core
+Adding python3-rpm
+Adding kernel-modules
+Adding dnf-plugin-subscription-manager
+Adding subscription-manager
+Adding setroubleshoot-server
+Adding libxslt
+Adding audispd-plugins
+Adding geolite2-country
+Adding ethtool
+Adding bind-libs
+Adding libutempter
+Adding iptables-libs
+Adding python3-firewall
+Adding os-prober
+Adding criu
+Adding basesystem
+Adding nss
+Adding ncurses-base
+Adding kernel-modules
+Adding nagios-plugins-nwstat
+Adding nagios-plugins-ide_smart
+Adding nagios-plugins-dummy
+Adding xz-libs
+Adding polkit-libs
+Adding nagios-plugins-cluster
+Adding perl-LWP-MediaTypes
+Adding polkit
+Adding nagios-plugins-users
+Adding nagios-plugins-mrtg
+Adding perl-Data-Dump
+Adding xfsdump
+Adding nagios-plugins-disk
+Adding pcre
+Adding perl-TimeDate
+Adding python3-dateutil
+Adding grub2-pc-modules
+Adding libbasicobjects
+Adding perl-HTTP-Cookies
+Adding gobject-introspection
+Adding at
+Adding libpq
+Adding gpg-pubkey
+Adding libdhash
+Adding perl-Digest-HMAC
+Adding python3-gpg
+Adding gmp
+Adding parted
+Adding python2
+Adding python2-gofer
+Adding blktrace
+Adding python3-cryptography
+Adding setup
+Adding cronie-anacron
+Adding prefixdevname
+Adding python3-ptyprocess
+Adding gpg-pubkey
+Adding libmnl
+Adding python3-linux-procfs
+Adding gdk-pixbuf2
+Adding zip
+Adding nagios-plugins-dig
+Adding perl-Compress-Raw-Zlib
+Adding efibootmgr
+Adding mokutil
+Adding sqlite
+Adding virt-what
+Adding openssh-clients
+Adding cairo
+Adding perl-interpreter
+Adding gdbm-libs
+Adding langpacks-en
+Adding nagios-plugins-ircd
+Adding rootfiles
+Adding libcomps
+Adding cairo-gobject
+Adding gzip
+Adding mpfr
+Adding python3-cffi
+Adding python3-webencodings
+Adding libsmbios
+Adding gdisk
+Adding python3-psutil
+Adding lmdb-libs
+Adding lm_sensors-libs
+Adding libnfnetlink
+Adding perl-Exporter
+Adding brotli
+Adding libini_config
+Adding rpm
+Adding selinux-policy
+Adding container-selinux
+Adding device-mapper
+Adding ipset-libs
+Adding elfutils-default-yama-scope
+Adding python3-configobj
+Adding systemd
+Adding attr
+Adding libblockdev-utils
+Adding bzip2
+Adding iputils
+Adding libproxy
+Adding librelp
+Adding samba-client-libs
+Adding NessusAgent
+Adding perl-Term-ANSIColor
+Adding rsyslog
+Adding pinentry
+Adding bind-license
+Adding perl-threads-shared
+Adding python3-hawkey
+Adding hwdata
+Adding perl-File-Path
+Adding python3-libstoragemgmt-clibs
+Adding mariadb-connector-c-config
+Adding perl-Socket
+Adding cockpit-ws
+Adding libdaemon
+Adding volume_key-libs
+Adding redhat-release-eula
+Adding perl-Digest
+Adding kpartx
+Adding subscription-manager-rhsm-certificates
+Adding perl-Pod-Escapes
+Adding kernel-modules
+Adding pkgconf-pkg-config
+Adding tzdata
+Adding kexec-tools
+Adding glibc
+Adding perl-libnet
+Adding device-mapper-event
+Adding libvarlink
+Adding popt
+Adding perl-Pod-Simple
+Adding nagios-plugins-ping
+Adding sscg
+Adding libblkid
+Adding perl-Pod-Usage
+Adding libblockdev-loop
+Adding crypto-policies
+Adding libgcab1
+Adding libfastjson
+Adding python3-ethtool
+Adding python3-libs
+Adding perl-PerlIO-utf8_strict
+Adding libxmlb
+Adding libpwquality
+Adding slirp4netns
+Adding openssl
+Adding gawk
+Adding libstdc++
+Adding python3-hwdata
+Adding shadow-utils
+Adding libesmtp
+Adding ca-certificates
+Adding python3-dnf-plugin-spacewalk
+Adding nss-util
+Adding libsmartcols
+Adding python3-pyasn1
+Adding file-libs
+Adding perl-TermReadKey
+Adding pciutils
+Adding procps-ng
+Adding xfsprogs
+Adding udisks2-iscsi
+Adding auter
+Adding clevis
+Adding PackageKit-glib
+Adding sssd-common
+Adding sssd-ad
+Adding sssd
+Adding fprintd-pam
+Adding gnupg2
+Adding podman
+Adding tuned
+Adding buildah
+Adding hyperv-daemons
+Adding grub2-efi-x64
+Adding netconsole-service
+Adding rsyslog-gssapi
+Adding qemu-guest-agent
+Adding firewalld
+Adding strace
+Adding python3-pyOpenSSL
+Adding lshw
+Adding bpftool
+Adding unzip
+Adding quota
+Adding epel-release
+Adding libtevent
+Adding libtdb
+Adding libzstd
+Adding tar
+Adding perl-libwww-perl
+Adding psmisc
+Adding vim-common
+Adding python3-setuptools
+Adding efivar
+Adding libssh
+Adding grubby
+Adding perl-Mozilla-CA
+Adding perl-Compress-Raw-Bzip2
+Adding python3-gobject-base
+Adding kernel-core
+Adding python2-pip
+Adding oddjob
+Adding logrotate
+Adding rpcbind
+Adding lm_sensors
+Adding cyrus-sasl-gssapi
+Adding hypervfcopyd
+Adding rpm-build-libs
+Adding git
+Adding python3-dnf-plugins-core
+Adding python3-subscription-manager-rhsm
+Adding python3-gobject
+Adding cockpit-packagekit
+Adding cryptsetup
+Adding udisks2
+Adding mailx
+Adding userspace-rcu
+Adding clevis-luks
+Adding libpcap
+Adding sssd-ldap
+Adding python3-libsemanage
+Adding mysql-libs
+Adding hdparm
+Adding pkgconf-m4
+Adding nagios-plugins-swap
+Adding sssd-kcm
+Adding nagios-plugins-time
+Adding nagios-plugins-all
+Adding info
+Adding nagios-plugins-ntp
+Adding polkit-pkla-compat
+Adding NetworkManager-tui
+Adding cups-libs
+Adding readline
+Adding nagios-plugins-smtp
+Adding vim-filesystem
+Adding atop
+Adding jansson
+Adding bind-export-libs
+Adding python2-pip-wheel
+Adding grub2-tools-efi
+Adding mlocate
+Adding which
+Adding python2-setuptools
+Adding python3-ldap
+Adding perl-Net-SSLeay
+Adding python3-gofer-proton
+Adding python3-py3nvml
+Adding crontabs
+Adding bind-utils
+Adding dejavu-sans-mono-fonts
+Adding biosdevname
+Adding nagios-plugins-snmp
+Adding python3-pyyaml
+Adding time
+Adding perl-IO
+Adding tree
+Adding libtool-ltdl
+Adding nagios-plugins-flexlm
+Adding libmaxminddb
+Adding kernel-tools
+Adding efivar-libs
+Adding kernel
+Adding libndp
+Adding snappy
+Adding libpath_utils
+Adding rpm-libs
+Adding jq
+Adding perl-Text-ParseWords
+Adding sysstat
+Adding newt
+Adding policycoreutils-python-utils
+Adding libteam
+Adding tcpdump
+Adding elfutils-debuginfod-client
+Adding python3-slip
+Adding cyrus-sasl-lib
+Adding glib2
+Adding jimtcl
+Adding libmodman
+Adding samba-common-libs
+Adding less
+Adding python3-libdnf
+Adding libX11-common
+Adding fuse3-libs
+Adding NetworkManager
+Adding perl-Time-Local
+Adding redhat-release
+Adding libpciaccess
+Adding perl-IO-Compress
+Adding grub2-tools
+Adding perl-Storable
+Adding libselinux
+Adding nagios-plugins-disk_smb
+Adding isns-utils-libs
+Adding perl-Encode
+Adding libxml2
+Adding npth
+Adding libblockdev-part
+Adding xmlsec1-openssl
+Adding crypto-policies-scripts
+Adding libestr
+Adding ModemManager-glib
+Adding python3-inotify
+Adding perl-utf8-all
+Adding pam
+Adding fprintd
+Adding krb5-libs
+Adding nagios-plugins-mailq
+Adding python3-requests
+Adding nagios-common
+Adding hypervvssd
+Adding dnf-plugin-spacewalk
+Adding perl-Git
+Adding protobuf-c
+Adding cracklib-dicts
+Adding kpatch-dnf
+Adding python3-pydbus
+Adding bind-libs-lite
+Adding subscription-manager-cockpit
+Adding tpm2-tss
+Adding libatasmart
+Adding device-mapper-multipath
+Adding python3-lxml
+Adding iftop
+Adding sssd-common-pac
+Adding nftables
+Adding libcroco
+Adding authselect
+Adding libusbx
+Adding nss-softokn-freebl
+Adding open-vm-tools
+Adding PackageKit
+Adding nagios-plugins-real
+Adding yum-utils
+Adding nagios-plugins-icmp
+Adding kmod-wireguard
+Adding nagios-plugins-overcr
+Adding perl-HTML-Tagset
+Adding irqbalance
+Adding nagios-plugins-nagios
+Adding perl-HTTP-Message
+Adding dbus-glib
+Adding usbutils
+Adding openssh-server
+Adding audit-libs
+Adding avahi-libs
+Adding python3-dmidecode
+Adding rng-tools
+Adding krb5-workstation
+Adding libattr
+Adding libnfsidmap
+Adding python3-gofer
+Adding rsync
+Adding libassuan
+Adding sos
+Adding libcom_err
+Adding gpm-libs
+Adding libunistring
+Adding qpid-proton-c
+Adding python3-audit
+Adding util-linux
+Adding libgcrypt
+Adding nagios-repo
+Adding nagios-plugins-ssl_validity
+Adding man-pages
+Adding xmlsec1
+Adding freetype
+Adding device-mapper-persistent-data
+Adding python36
+Adding libmetalink
+Adding wget
+Adding fuse-overlayfs
+Adding fuse-libs
+Adding libsss_nss_idmap
+Adding usermode
+Adding perl-parent
+Adding lzo
+Adding smartmontools
+Adding libsolv
+Adding usb_modeswitch-data
+Adding mariadb-connector-c
+Adding cyrus-sasl-plain
+Adding systemd-pam
+Adding python3-pyudev
+Adding libmodulemd1
+Adding librepo
+Adding libdnf
+Adding coreutils
+Adding perl-constant
+Adding c-ares
+Adding python3-pip-wheel
+Adding dhcp-client
+Adding perl-Crypt-X509
+Adding dejavu-fonts-common
+Adding iscsi-initiator-utils-iscsiuio
+Adding perl-Text-Glob
+Adding libpkgconf
+Adding linux-firmware
+Adding dracut-network
+Adding fipscheck-lib
+Adding libstemmer
+Adding libsepol
+Adding lvm2
+Adding perl-Pod-Perldoc
+Adding sqlite-libs
+Adding libblockdev-crypto
+Adding python3-rhnlib
+Adding perl-encoding
+Adding libnet
+Adding kmod-libs
+Adding conmon
+Adding fuse-common
+Adding systemd-libs
+Adding mdadm
+Adding libsss_idmap
+Adding authselect-libs
+Adding python3-rhn-client-tools
+Adding libsss_certmap
+Adding python3-dnf
+Adding rhn-setup
+Adding libtirpc
+Adding fstrm
+Adding containers-common
+Adding luksmeta
+Found 863 softwares
+2021-05-27 20:59:54,165 [DEBUG] : Computerscan completed.
+2021-05-27 20:59:54,165 [DEBUG] : Compressing scanfile.
+2021-05-27 20:59:55,712 [DEBUG] : Scan has been sent.
+2021-05-27 20:59:55,714 [DEBUG] : Waiting for next scheduled scan...
