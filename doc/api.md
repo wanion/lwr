@@ -1,7 +1,5 @@
 Documentation for scan reporting API used by LanSweeper Agent
 
-[[_TOC_]]
-
 ## Typical flow
 
 | Local         | Cloud                 | Description                          |
@@ -156,7 +154,7 @@ content-length: 21191
 
 | Name   | Filename | Value                                         |
 | ------ | -------- | --------------------------------------------- |
-| Config | Config   | [see xml](doc/sample-data/lsagent.config.xml) |
+| Config | Config   | [see xml](sample-data/lsagent.config.xml) |
 
 ## Update
 
@@ -196,13 +194,13 @@ Content-Length: 39013
 Host: lansweeper.example.org:9524
 ```
 
-| Name            | Filename | Value                                |
-| --------------- | -------- | ------------------------------------ |
-| AgentKey        |          | b8447573-f51f-49d3-91be-ea5c310de84b |
-| OperatingSystem |          | Linux                                |
-| AssetId         |          | b8447573-f51f-49d3-91be-ea5c310de84b |
-| Action          |          | ScanData                             |
-| Scan            | Scan     | see xml                              |
+| Name            | Filename | Value                                    |
+| --------------- | -------- | ---------------------------------------- |
+| AgentKey        |          | b8447573-f51f-49d3-91be-ea5c310de84b     |
+| OperatingSystem |          | Linux                                    |
+| AssetId         |          | b8447573-f51f-49d3-91be-ea5c310de84b     |
+| Action          |          | ScanData                                 |
+| Scan            | Scan     | [see json](sample-data/lsagent.scan.json) |
 
 ### Response
 
